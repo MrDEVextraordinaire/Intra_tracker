@@ -1,0 +1,3584 @@
+{
+  "kael-mal": {
+    "id": 245916,
+    "login": "kael-mal",
+    "display_name": "Kamil El Malti",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857003+00:00"
+  },
+  "adahadda": {
+    "id": 237839,
+    "login": "adahadda",
+    "display_name": "Adam Haddad",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857017+00:00"
+  },
+  "chamchic": {
+    "id": 237450,
+    "login": "chamchic",
+    "display_name": "Chemseddine Amchich",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857019+00:00"
+  },
+  "ybajdou": {
+    "id": 237441,
+    "login": "ybajdou",
+    "display_name": "Yassine Bajdou",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857020+00:00"
+  },
+  "iel-arou": {
+    "id": 237440,
+    "login": "iel-arou",
+    "display_name": "Ibrahim El Aroui",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857022+00:00"
+  },
+  "abantari": {
+    "id": 237432,
+    "login": "abantari",
+    "display_name": "Abdessamad Antari",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857036+00:00"
+  },
+  "aykarim": {
+    "id": 237335,
+    "login": "aykarim",
+    "display_name": "Ayoub Karim",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857038+00:00"
+  },
+  "nikarama": {
+    "id": 237318,
+    "login": "nikarama",
+    "display_name": "Nissrine Karaman",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857039+00:00"
+  },
+  "mabeihaq": {
+    "id": 237316,
+    "login": "mabeihaq",
+    "display_name": "Marwa Beihaqi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857040+00:00"
+  },
+  "yramouch": {
+    "id": 237248,
+    "login": "yramouch",
+    "display_name": "Youssef Ramouch",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857042+00:00"
+  },
+  "mchati": {
+    "id": 237244,
+    "login": "mchati",
+    "display_name": "Mohamed Chati",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857043+00:00"
+  },
+  "ilaghrai": {
+    "id": 237243,
+    "login": "ilaghrai",
+    "display_name": "Imad Laghraib",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857044+00:00"
+  },
+  "sasaidi": {
+    "id": 237232,
+    "login": "sasaidi",
+    "display_name": "Salaheddine  Saidi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857045+00:00"
+  },
+  "aait-ela": {
+    "id": 237229,
+    "login": "aait-ela",
+    "display_name": "Ahmed Ait Elaaoud",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857047+00:00"
+  },
+  "aelhadja": {
+    "id": 237227,
+    "login": "aelhadja",
+    "display_name": "Achraf Elhadjaoui",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857049+00:00"
+  },
+  "achihabi": {
+    "id": 237220,
+    "login": "achihabi",
+    "display_name": "Amine Chihabi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857050+00:00"
+  },
+  "chabourk": {
+    "id": 237196,
+    "login": "chabourk",
+    "display_name": "Chihab Eddine Abourkia",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857052+00:00"
+  },
+  "yrabhi": {
+    "id": 237161,
+    "login": "yrabhi",
+    "display_name": "Youness Rabhi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857053+00:00"
+  },
+  "achahi": {
+    "id": 237155,
+    "login": "achahi",
+    "display_name": "Ahmed Chahi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857054+00:00"
+  },
+  "zael-ghm": {
+    "id": 237133,
+    "login": "zael-ghm",
+    "display_name": "Zakaria El Ghmari",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857056+00:00"
+  },
+  "abait-el": {
+    "id": 237129,
+    "login": "abait-el",
+    "display_name": "Abdelouadoud Ait El Haj",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857058+00:00"
+  },
+  "ilsyabri": {
+    "id": 237125,
+    "login": "ilsyabri",
+    "display_name": "Iliass Syabri",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857059+00:00"
+  },
+  "rsbaa": {
+    "id": 237119,
+    "login": "rsbaa",
+    "display_name": "Rida Sbaa",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857061+00:00"
+  },
+  "ohajjami": {
+    "id": 237113,
+    "login": "ohajjami",
+    "display_name": "Omayma Hajjami",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857062+00:00"
+  },
+  "mbidlal": {
+    "id": 237100,
+    "login": "mbidlal",
+    "display_name": "Mohamed Bidlal",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857063+00:00"
+  },
+  "falamlih": {
+    "id": 237088,
+    "login": "falamlih",
+    "display_name": "Fatima Ezzahra Lamlih",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857064+00:00"
+  },
+  "elhamza": {
+    "id": 237085,
+    "login": "elhamza",
+    "display_name": "El Kamel Hamza",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857065+00:00"
+  },
+  "ibel-lot": {
+    "id": 237084,
+    "login": "ibel-lot",
+    "display_name": "Ibrahim El Lotfi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857068+00:00"
+  },
+  "abdait-s": {
+    "id": 237081,
+    "login": "abdait-s",
+    "display_name": "Abderrahmane Ait Salh",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857069+00:00"
+  },
+  "smakkass": {
+    "id": 237065,
+    "login": "smakkass",
+    "display_name": "Said Makkass",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857070+00:00"
+  },
+  "azahi": {
+    "id": 237063,
+    "login": "azahi",
+    "display_name": "Abdellah Zahi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857071+00:00"
+  },
+  "mzougari": {
+    "id": 237050,
+    "login": "mzougari",
+    "display_name": "Mohamed Zougari",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857073+00:00"
+  },
+  "hamezoua": {
+    "id": 237049,
+    "login": "hamezoua",
+    "display_name": "Hamza Amezouar",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857074+00:00"
+  },
+  "baharrou": {
+    "id": 237047,
+    "login": "baharrou",
+    "display_name": "Badr Eddine Aharrouch",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857075+00:00"
+  },
+  "elanghas": {
+    "id": 237045,
+    "login": "elanghas",
+    "display_name": "El Mehdi Anghas",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857076+00:00"
+  },
+  "hrabh": {
+    "id": 237044,
+    "login": "hrabh",
+    "display_name": "Hamza Rabh",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857077+00:00"
+  },
+  "hlaaz": {
+    "id": 237034,
+    "login": "hlaaz",
+    "display_name": "Hamza Laaz",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857079+00:00"
+  },
+  "ichtioui": {
+    "id": 237014,
+    "login": "ichtioui",
+    "display_name": "Ilyas Chtioui",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857080+00:00"
+  },
+  "yjabrane": {
+    "id": 237013,
+    "login": "yjabrane",
+    "display_name": "Younes Jabrane",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857081+00:00"
+  },
+  "maboulai": {
+    "id": 237012,
+    "login": "maboulai",
+    "display_name": "Mohamed Amine Aboulait",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857083+00:00"
+  },
+  "ychoucho": {
+    "id": 237011,
+    "login": "ychoucho",
+    "display_name": "Younes Chouchou",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857085+00:00"
+  },
+  "skoulal": {
+    "id": 236993,
+    "login": "skoulal",
+    "display_name": "Salah Eddine Koulal",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857086+00:00"
+  },
+  "zel-alao": {
+    "id": 236990,
+    "login": "zel-alao",
+    "display_name": "Zakarie El Alaoui Eddahbi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857087+00:00"
+  },
+  "manzar": {
+    "id": 236983,
+    "login": "manzar",
+    "display_name": "Mounir Anzar",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857089+00:00"
+  },
+  "aghafir": {
+    "id": 236974,
+    "login": "aghafir",
+    "display_name": "Abderrahim Ghafir",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857090+00:00"
+  },
+  "wabbad": {
+    "id": 236960,
+    "login": "wabbad",
+    "display_name": "Walid Abbad",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857091+00:00"
+  },
+  "mmenniou": {
+    "id": 236955,
+    "login": "mmenniou",
+    "display_name": "Mouad Mennioui",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857092+00:00"
+  },
+  "aryahi": {
+    "id": 236951,
+    "login": "aryahi",
+    "display_name": "Abdellah Ryahi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857094+00:00"
+  },
+  "kraghib": {
+    "id": 236945,
+    "login": "kraghib",
+    "display_name": "Khalil Raghib",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857095+00:00"
+  },
+  "mdamouh": {
+    "id": 236942,
+    "login": "mdamouh",
+    "display_name": "Mustapha Damouh",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857096+00:00"
+  },
+  "aelmanso": {
+    "id": 236915,
+    "login": "aelmanso",
+    "display_name": "Ayoub Elmansouri",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857097+00:00"
+  },
+  "ybaddi": {
+    "id": 236904,
+    "login": "ybaddi",
+    "display_name": "Yassine Baddi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857098+00:00"
+  },
+  "nyahyaou": {
+    "id": 236886,
+    "login": "nyahyaou",
+    "display_name": "Nabil Yahyaoui Idrissi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857099+00:00"
+  },
+  "youlad-b": {
+    "id": 236877,
+    "login": "youlad-b",
+    "display_name": "Younes Oulad Ben Tahar",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857101+00:00"
+  },
+  "msbayihi": {
+    "id": 236868,
+    "login": "msbayihi",
+    "display_name": "Moussa Sbayihi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857103+00:00"
+  },
+  "ztafjout": {
+    "id": 236862,
+    "login": "ztafjout",
+    "display_name": "Zakariae  Tafjouti ",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857104+00:00"
+  },
+  "delminia": {
+    "id": 236809,
+    "login": "delminia",
+    "display_name": "Driss Elminiar",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857105+00:00"
+  },
+  "mjabri": {
+    "id": 236788,
+    "login": "mjabri",
+    "display_name": "Mohamed Amine Jabri",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857107+00:00"
+  },
+  "edagdagu": {
+    "id": 236782,
+    "login": "edagdagu",
+    "display_name": "Elmehdi Dagdague",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857108+00:00"
+  },
+  "ael-biss": {
+    "id": 236746,
+    "login": "ael-biss",
+    "display_name": "Abderrahman El Bissari",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857109+00:00"
+  },
+  "bkhalid": {
+    "id": 236736,
+    "login": "bkhalid",
+    "display_name": "Boumaghdar Khalid",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857110+00:00"
+  },
+  "sbelabbe": {
+    "id": 236730,
+    "login": "sbelabbe",
+    "display_name": "Saad Belabbes",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857111+00:00"
+  },
+  "wkerdad": {
+    "id": 236727,
+    "login": "wkerdad",
+    "display_name": "Walid Kerdad",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857112+00:00"
+  },
+  "oissfoul": {
+    "id": 236726,
+    "login": "oissfoul",
+    "display_name": "Oussama Issfoula",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857114+00:00"
+  },
+  "oerrami": {
+    "id": 236672,
+    "login": "oerrami",
+    "display_name": "Oussama Errami",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857116+00:00"
+  },
+  "akouiss": {
+    "id": 236670,
+    "login": "akouiss",
+    "display_name": "Achraf Kouiss",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857117+00:00"
+  },
+  "isbenmou": {
+    "id": 236662,
+    "login": "isbenmou",
+    "display_name": "Ismail Benmoussa",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857118+00:00"
+  },
+  "ancheab": {
+    "id": 236645,
+    "login": "ancheab",
+    "display_name": "Anass Cheab",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857120+00:00"
+  },
+  "bmarbouh": {
+    "id": 236643,
+    "login": "bmarbouh",
+    "display_name": "Bilal Marbouh",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857121+00:00"
+  },
+  "brouane": {
+    "id": 236636,
+    "login": "brouane",
+    "display_name": "Bilal Rouane",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857123+00:00"
+  },
+  "gomar": {
+    "id": 236623,
+    "login": "gomar",
+    "display_name": "Gourragui Omar",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857124+00:00"
+  },
+  "aaheddar": {
+    "id": 236616,
+    "login": "aaheddar",
+    "display_name": "Amine Aheddare",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857125+00:00"
+  },
+  "itemlali": {
+    "id": 236612,
+    "login": "itemlali",
+    "display_name": "Imad Temlali",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857126+00:00"
+  },
+  "aezzirar": {
+    "id": 236585,
+    "login": "aezzirar",
+    "display_name": "Adnane Ezzirari",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857127+00:00"
+  },
+  "azel-mah": {
+    "id": 236581,
+    "login": "azel-mah",
+    "display_name": "Aziz El Mahri",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857129+00:00"
+  },
+  "yjamili": {
+    "id": 236573,
+    "login": "yjamili",
+    "display_name": "Yassine Jamili",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857130+00:00"
+  },
+  "sboudcha": {
+    "id": 236565,
+    "login": "sboudcha",
+    "display_name": "Soufian Boudchar",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857131+00:00"
+  },
+  "smoustaj": {
+    "id": 236562,
+    "login": "smoustaj",
+    "display_name": "Souhaib Moustajib",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857133+00:00"
+  },
+  "masbane": {
+    "id": 236560,
+    "login": "masbane",
+    "display_name": "Mohamed Asbane",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857134+00:00"
+  },
+  "eanjar": {
+    "id": 236550,
+    "login": "eanjar",
+    "display_name": "El Houssain Anjar",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857135+00:00"
+  },
+  "nel-adao": {
+    "id": 236548,
+    "login": "nel-adao",
+    "display_name": "Nasr Eddine El Adaoui",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857137+00:00"
+  },
+  "yael-kha": {
+    "id": 236542,
+    "login": "yael-kha",
+    "display_name": "Yassine El Khader",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857138+00:00"
+  },
+  "ibaya": {
+    "id": 236519,
+    "login": "ibaya",
+    "display_name": "Iliasse Baya",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857139+00:00"
+  },
+  "mmasali": {
+    "id": 236516,
+    "login": "mmasali",
+    "display_name": "Mohamed Masali",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857140+00:00"
+  },
+  "sksioui": {
+    "id": 236510,
+    "login": "sksioui",
+    "display_name": "Saad Ksioui",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857142+00:00"
+  },
+  "oabderra": {
+    "id": 236506,
+    "login": "oabderra",
+    "display_name": "Oukemmou Abderrahmane",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857143+00:00"
+  },
+  "ychabane": {
+    "id": 236504,
+    "login": "ychabane",
+    "display_name": "Yassine Chabane",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857145+00:00"
+  },
+  "ikabboud": {
+    "id": 236501,
+    "login": "ikabboud",
+    "display_name": "Ihssane Kabboudi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857147+00:00"
+  },
+  "mennih": {
+    "id": 236494,
+    "login": "mennih",
+    "display_name": "Mohamed Ennih",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857148+00:00"
+  },
+  "riri": {
+    "id": 235312,
+    "login": "riri",
+    "display_name": "Rania Idrissi",
+    "level": 0,
+    "pool_year": null,
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857149+00:00"
+  },
+  "tazi": {
+    "id": 235311,
+    "login": "tazi",
+    "display_name": "Yassin Hakkache",
+    "level": 0,
+    "pool_year": null,
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857150+00:00"
+  },
+  "ssicipher": {
+    "id": 234796,
+    "login": "ssicipher",
+    "display_name": "Youssef Anab",
+    "level": 0,
+    "pool_year": null,
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857151+00:00"
+  },
+  "hamzaaa": {
+    "id": 233927,
+    "login": "hamzaaa",
+    "display_name": "Hamza Et Tajani",
+    "level": 0,
+    "pool_year": null,
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857152+00:00"
+  },
+  "elcie": {
+    "id": 233926,
+    "login": "elcie",
+    "display_name": "Laila Chokri",
+    "level": 0,
+    "pool_year": null,
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857181+00:00"
+  },
+  "zaben-da": {
+    "id": 233470,
+    "login": "zaben-da",
+    "display_name": "Zakariae Ben Daouch",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857182+00:00"
+  },
+  "msbii": {
+    "id": 233467,
+    "login": "msbii",
+    "display_name": "Mohamed Sbii",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857184+00:00"
+  },
+  "hahchtar": {
+    "id": 233460,
+    "login": "hahchtar",
+    "display_name": "Hasan Ahchtar",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857185+00:00"
+  },
+  "blidriss": {
+    "id": 233457,
+    "login": "blidriss",
+    "display_name": "Brahim Lidrissi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857186+00:00"
+  },
+  "ayafit": {
+    "id": 233454,
+    "login": "ayafit",
+    "display_name": "Ahmed Fadl Allah Yafit",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857188+00:00"
+  },
+  "aeddiba": {
+    "id": 233442,
+    "login": "aeddiba",
+    "display_name": "Achraf Eddiba",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857189+00:00"
+  },
+  "ottalhao": {
+    "id": 233437,
+    "login": "ottalhao",
+    "display_name": "Otmane Talhaoui",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857190+00:00"
+  },
+  "abougues": {
+    "id": 233424,
+    "login": "abougues",
+    "display_name": "Aya Bouguessa",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857191+00:00"
+  },
+  "wabdi": {
+    "id": 232826,
+    "login": "wabdi",
+    "display_name": "Walid Abdi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857193+00:00"
+  },
+  "selouizg": {
+    "id": 232821,
+    "login": "selouizg",
+    "display_name": "Soufiane Elouizgany",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857194+00:00"
+  },
+  "alamliti": {
+    "id": 232812,
+    "login": "alamliti",
+    "display_name": "Ayoub Lamliti",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857195+00:00"
+  },
+  "obehlil": {
+    "id": 232759,
+    "login": "obehlil",
+    "display_name": "Ouassim Behlil",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857196+00:00"
+  },
+  "mel-wahm": {
+    "id": 232749,
+    "login": "mel-wahm",
+    "display_name": "Mohamed El Qacem El Wahmani",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857198+00:00"
+  },
+  "tmousnia": {
+    "id": 232740,
+    "login": "tmousnia",
+    "display_name": "Taha Mousnia",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857201+00:00"
+  },
+  "tsellak": {
+    "id": 232736,
+    "login": "tsellak",
+    "display_name": "Taha Sellak",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857202+00:00"
+  },
+  "yelgoumr": {
+    "id": 232714,
+    "login": "yelgoumr",
+    "display_name": "Yassine Elgoumri",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857203+00:00"
+  },
+  "mhend": {
+    "id": 232707,
+    "login": "mhend",
+    "display_name": "Mbark Hend",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857204+00:00"
+  },
+  "nkaoine": {
+    "id": 232706,
+    "login": "nkaoine",
+    "display_name": "Nouredine Kaoine",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857205+00:00"
+  },
+  "sbelcadi": {
+    "id": 232690,
+    "login": "sbelcadi",
+    "display_name": "Saad Belcadi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857206+00:00"
+  },
+  "obakri": {
+    "id": 232682,
+    "login": "obakri",
+    "display_name": "Oumaima Bakri",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857208+00:00"
+  },
+  "mlakhlil": {
+    "id": 232678,
+    "login": "mlakhlil",
+    "display_name": "Mohsine Lakhlil",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857209+00:00"
+  },
+  "slaaouin": {
+    "id": 232670,
+    "login": "slaaouin",
+    "display_name": "Salah Eddine Laaouina",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857210+00:00"
+  },
+  "iel-ghan": {
+    "id": 232664,
+    "login": "iel-ghan",
+    "display_name": "Ilyas El Ghandouri",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857211+00:00"
+  },
+  "yhachimi": {
+    "id": 232657,
+    "login": "yhachimi",
+    "display_name": "Youness Hachimi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857213+00:00"
+  },
+  "eanass": {
+    "id": 232655,
+    "login": "eanass",
+    "display_name": "Elansari Anass",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857214+00:00"
+  },
+  "mosliman": {
+    "id": 232654,
+    "login": "mosliman",
+    "display_name": "Mohamed Slimani",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857215+00:00"
+  },
+  "aait-ahm": {
+    "id": 232645,
+    "login": "aait-ahm",
+    "display_name": "Ali Ait Ahmed",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857217+00:00"
+  },
+  "mochihab": {
+    "id": 232625,
+    "login": "mochihab",
+    "display_name": "Mohammed Amine Chihab",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857218+00:00"
+  },
+  "ycherraj": {
+    "id": 232623,
+    "login": "ycherraj",
+    "display_name": "Yassin Cherraj",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857219+00:00"
+  },
+  "abait-mo": {
+    "id": 232621,
+    "login": "abait-mo",
+    "display_name": "Abdellah Ait Mouhi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857221+00:00"
+  },
+  "ykaf": {
+    "id": 232617,
+    "login": "ykaf",
+    "display_name": "Youssef Kaf",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857222+00:00"
+  },
+  "rhssayn": {
+    "id": 232616,
+    "login": "rhssayn",
+    "display_name": "Redouane Hssayn",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857223+00:00"
+  },
+  "melgalai": {
+    "id": 232598,
+    "login": "melgalai",
+    "display_name": "Mehdi Elgalai",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857224+00:00"
+  },
+  "azirari": {
+    "id": 232596,
+    "login": "azirari",
+    "display_name": "Abdellah Taha Zirari",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857225+00:00"
+  },
+  "ael-bala": {
+    "id": 232590,
+    "login": "ael-bala",
+    "display_name": "Achraf El Baladia",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857226+00:00"
+  },
+  "melmoara": {
+    "id": 232585,
+    "login": "melmoara",
+    "display_name": "Mohamed Amine Elmoaraf",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857229+00:00"
+  },
+  "asaqi": {
+    "id": 232578,
+    "login": "asaqi",
+    "display_name": "Ahmed Saqi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857230+00:00"
+  },
+  "abentabe": {
+    "id": 232567,
+    "login": "abentabe",
+    "display_name": "Ahmed Bentabet",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857231+00:00"
+  },
+  "iboujdad": {
+    "id": 232564,
+    "login": "iboujdad",
+    "display_name": "Ismail Boujdad",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857232+00:00"
+  },
+  "onaanaa": {
+    "id": 232560,
+    "login": "onaanaa",
+    "display_name": "Oumaima Naanaa",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857235+00:00"
+  },
+  "mrbib": {
+    "id": 232558,
+    "login": "mrbib",
+    "display_name": "Marouane Rbib",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857236+00:00"
+  },
+  "abel-hac": {
+    "id": 232555,
+    "login": "abel-hac",
+    "display_name": "Abdelaziz El Hachmi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857238+00:00"
+  },
+  "aelarous": {
+    "id": 232530,
+    "login": "aelarous",
+    "display_name": "Abdellatif Elaroussi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857239+00:00"
+  },
+  "oumahi": {
+    "id": 232525,
+    "login": "oumahi",
+    "display_name": "Oussama Mahi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857240+00:00"
+  },
+  "zouamrha": {
+    "id": 232522,
+    "login": "zouamrha",
+    "display_name": "Zakaria Ouamrhar",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857241+00:00"
+  },
+  "snaimi": {
+    "id": 232521,
+    "login": "snaimi",
+    "display_name": "Souhail Naimi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857242+00:00"
+  },
+  "nael-oua": {
+    "id": 232510,
+    "login": "nael-oua",
+    "display_name": "Nassim El Ouardighi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857243+00:00"
+  },
+  "aarid": {
+    "id": 232509,
+    "login": "aarid",
+    "display_name": "Ayoub Arid",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857245+00:00"
+  },
+  "aakourya": {
+    "id": 232505,
+    "login": "aakourya",
+    "display_name": "Abdelghafour Akouryah",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857246+00:00"
+  },
+  "jamourgh": {
+    "id": 232501,
+    "login": "jamourgh",
+    "display_name": "Jalal Amourgha",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857247+00:00"
+  },
+  "yabyaa": {
+    "id": 232490,
+    "login": "yabyaa",
+    "display_name": "Younes Abyaa",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857248+00:00"
+  },
+  "momokhli": {
+    "id": 232483,
+    "login": "momokhli",
+    "display_name": "Mohammed Mokhliss",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857249+00:00"
+  },
+  "mbouskha": {
+    "id": 232450,
+    "login": "mbouskha",
+    "display_name": "Mohamed Amine Bouskhair",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857251+00:00"
+  },
+  "niboutta": {
+    "id": 232447,
+    "login": "niboutta",
+    "display_name": "Naser Eddine Ibouttane",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857253+00:00"
+  },
+  "jamdah": {
+    "id": 232425,
+    "login": "jamdah",
+    "display_name": "Jaouad Amdah",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857255+00:00"
+  },
+  "aguennac": {
+    "id": 232402,
+    "login": "aguennac",
+    "display_name": "Adnane Guennach",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857256+00:00"
+  },
+  "sait-mou": {
+    "id": 232383,
+    "login": "sait-mou",
+    "display_name": "Salah Eddine Ait Mouhi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857257+00:00"
+  },
+  "sajdi": {
+    "id": 232375,
+    "login": "sajdi",
+    "display_name": "Safouane Ajdi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857258+00:00"
+  },
+  "zboualam": {
+    "id": 232372,
+    "login": "zboualam",
+    "display_name": "Ziyad Boualam",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857259+00:00"
+  },
+  "bzari": {
+    "id": 232357,
+    "login": "bzari",
+    "display_name": "Badr Eddine Zari",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857261+00:00"
+  },
+  "adkaid-s": {
+    "id": 232348,
+    "login": "adkaid-s",
+    "display_name": "Adam Kaid Salim",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857262+00:00"
+  },
+  "soatifi": {
+    "id": 232342,
+    "login": "soatifi",
+    "display_name": "Soufiane Atifi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857263+00:00"
+  },
+  "alerradi": {
+    "id": 232324,
+    "login": "alerradi",
+    "display_name": "Alaa Eddine Erradi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857264+00:00"
+  },
+  "yigourra": {
+    "id": 232312,
+    "login": "yigourra",
+    "display_name": "Yacine Igourramen",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857266+00:00"
+  },
+  "iazzouzi": {
+    "id": 232298,
+    "login": "iazzouzi",
+    "display_name": "Ibrahim Azzouzi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857267+00:00"
+  },
+  "yel-bakk": {
+    "id": 232293,
+    "login": "yel-bakk",
+    "display_name": "Yassir El Bakkari",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857268+00:00"
+  },
+  "berrabia": {
+    "id": 232270,
+    "login": "berrabia",
+    "display_name": "Bilal Errabia",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857270+00:00"
+  },
+  "ayfadli": {
+    "id": 232269,
+    "login": "ayfadli",
+    "display_name": "Ayoub Fadli",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857271+00:00"
+  },
+  "hamaarab": {
+    "id": 232260,
+    "login": "hamaarab",
+    "display_name": "Hamza Aarab",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857272+00:00"
+  },
+  "blemrabe": {
+    "id": 232254,
+    "login": "blemrabe",
+    "display_name": "Bilal Lemrabet",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857274+00:00"
+  },
+  "mjaber": {
+    "id": 232251,
+    "login": "mjaber",
+    "display_name": "Mohamed Jaber",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857275+00:00"
+  },
+  "aerrabou": {
+    "id": 232250,
+    "login": "aerrabou",
+    "display_name": "Ayman Errabou",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857276+00:00"
+  },
+  "oel-azzo": {
+    "id": 232235,
+    "login": "oel-azzo",
+    "display_name": "Oualid El Azzouzi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857277+00:00"
+  },
+  "anbenaay": {
+    "id": 232229,
+    "login": "anbenaay",
+    "display_name": "Anouar Benaayad",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857278+00:00"
+  },
+  "rkadri": {
+    "id": 232224,
+    "login": "rkadri",
+    "display_name": "Reda Kadri",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857279+00:00"
+  },
+  "mbahri": {
+    "id": 232208,
+    "login": "mbahri",
+    "display_name": "Mohamed Bahri",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857281+00:00"
+  },
+  "ibouzina": {
+    "id": 232207,
+    "login": "ibouzina",
+    "display_name": "Imad Bouzina",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857282+00:00"
+  },
+  "yel-azim": {
+    "id": 232206,
+    "login": "yel-azim",
+    "display_name": "Yassine El Azime",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857285+00:00"
+  },
+  "mait-mou": {
+    "id": 232191,
+    "login": "mait-mou",
+    "display_name": "Mehdi Ait Mousse",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857286+00:00"
+  },
+  "adkhalil": {
+    "id": 232180,
+    "login": "adkhalil",
+    "display_name": "Adam Khalil",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857288+00:00"
+  },
+  "smahraz": {
+    "id": 232141,
+    "login": "smahraz",
+    "display_name": "Salaheddine Mahraz",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857289+00:00"
+  },
+  "hryahi": {
+    "id": 232105,
+    "login": "hryahi",
+    "display_name": "Hamid Ryahi",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857290+00:00"
+  },
+  "nel-ouad": {
+    "id": 232040,
+    "login": "nel-ouad",
+    "display_name": "Nadir El Ouadghiri",
+    "level": 0,
+    "pool_year": "2025",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857292+00:00"
+  },
+  "mira": {
+    "id": 218485,
+    "login": "mira",
+    "display_name": "Khadija Badr",
+    "level": 0,
+    "pool_year": null,
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857293+00:00"
+  },
+  "younes": {
+    "id": 209435,
+    "login": "younes",
+    "display_name": "Younes Wazga",
+    "level": 0,
+    "pool_year": null,
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857294+00:00"
+  },
+  "terabat": {
+    "id": 206572,
+    "login": "terabat",
+    "display_name": "Test Rabat",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857295+00:00"
+  },
+  "trabat": {
+    "id": 205523,
+    "login": "trabat",
+    "display_name": "Test Rabat",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857296+00:00"
+  },
+  "kapitchou": {
+    "id": 201042,
+    "login": "kapitchou",
+    "display_name": "User Test Rabat",
+    "level": 0,
+    "pool_year": "2017",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857297+00:00"
+  },
+  "snait-ai": {
+    "id": 200617,
+    "login": "snait-ai",
+    "display_name": "Salah Eddine Ait Oufalla",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857298+00:00"
+  },
+  "yanait-e": {
+    "id": 200614,
+    "login": "yanait-e",
+    "display_name": "Yasyn Nait Edderhem",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857299+00:00"
+  },
+  "abel-bah": {
+    "id": 200613,
+    "login": "abel-bah",
+    "display_name": "Abderrazzak El Bahtouri",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857300+00:00"
+  },
+  "moraouf": {
+    "id": 200564,
+    "login": "moraouf",
+    "display_name": "Mohamed Taha Raouf",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857302+00:00"
+  },
+  "aoussama": {
+    "id": 200562,
+    "login": "aoussama",
+    "display_name": "Oussama Akrate",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857304+00:00"
+  },
+  "zaboumei": {
+    "id": 200557,
+    "login": "zaboumei",
+    "display_name": "Zakariae Aboumeil",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857305+00:00"
+  },
+  "abousfih": {
+    "id": 200556,
+    "login": "abousfih",
+    "display_name": "Abdelkrim Bousfiha",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857306+00:00"
+  },
+  "ehamza": {
+    "id": 200555,
+    "login": "ehamza",
+    "display_name": "Hamza El Haiba",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857307+00:00"
+  },
+  "mfahmi": {
+    "id": 200542,
+    "login": "mfahmi",
+    "display_name": "Mouncif Fahmi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857309+00:00"
+  },
+  "wazadou": {
+    "id": 200533,
+    "login": "wazadou",
+    "display_name": "Wissam Azadou",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857310+00:00"
+  },
+  "isakrout": {
+    "id": 200528,
+    "login": "isakrout",
+    "display_name": "Ismail Akrout",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857311+00:00"
+  },
+  "aakherra": {
+    "id": 200521,
+    "login": "aakherra",
+    "display_name": "Aymane Akherraz",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857312+00:00"
+  },
+  "a-khairi": {
+    "id": 200520,
+    "login": "a-khairi",
+    "display_name": "Abdelali Khairi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857313+00:00"
+  },
+  "moirhira": {
+    "id": 200517,
+    "login": "moirhira",
+    "display_name": "Mohamed Irhirallah",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857315+00:00"
+  },
+  "mbouizak": {
+    "id": 200515,
+    "login": "mbouizak",
+    "display_name": "Mourtada Bouizakarne",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857316+00:00"
+  },
+  "yatanagh": {
+    "id": 200513,
+    "login": "yatanagh",
+    "display_name": "Yassir Tanaghite",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857317+00:00"
+  },
+  "brbaazi": {
+    "id": 200507,
+    "login": "brbaazi",
+    "display_name": "Brahim Baazi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857318+00:00"
+  },
+  "haboulah": {
+    "id": 200462,
+    "login": "haboulah",
+    "display_name": "Hassan Boulahfa",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857320+00:00"
+  },
+  "le-rabat": {
+    "id": 200452,
+    "login": "le-rabat",
+    "display_name": "Le Rabat Test",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857321+00:00"
+  },
+  "kbouarfa": {
+    "id": 200354,
+    "login": "kbouarfa",
+    "display_name": "Kawtar Bouarfa",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857323+00:00"
+  },
+  "tboutaib": {
+    "id": 200353,
+    "login": "tboutaib",
+    "display_name": "Taha Yassir Boutaib",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857324+00:00"
+  },
+  "yaithadd": {
+    "id": 200343,
+    "login": "yaithadd",
+    "display_name": "Youness Aithaddou",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857325+00:00"
+  },
+  "aait-laf": {
+    "id": 200316,
+    "login": "aait-laf",
+    "display_name": "Abdelhaq Ait Lafkih",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857326+00:00"
+  },
+  "sel-hime": {
+    "id": 200301,
+    "login": "sel-hime",
+    "display_name": "Salah Eddine El Himeur",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857327+00:00"
+  },
+  "yel-arib": {
+    "id": 200299,
+    "login": "yel-arib",
+    "display_name": "Yahya El Aribiti",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857328+00:00"
+  },
+  "nel-khol": {
+    "id": 200296,
+    "login": "nel-khol",
+    "display_name": "Noura El Kholti",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857330+00:00"
+  },
+  "zakel-kh": {
+    "id": 200295,
+    "login": "zakel-kh",
+    "display_name": "Zakariya El Kharroubi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857331+00:00"
+  },
+  "zel-baji": {
+    "id": 200275,
+    "login": "zel-baji",
+    "display_name": "Zakaria El Baji",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857332+00:00"
+  },
+  "zouazrou": {
+    "id": 200272,
+    "login": "zouazrou",
+    "display_name": "Zakaria Ouazrou",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857333+00:00"
+  },
+  "mohrafik": {
+    "id": 200271,
+    "login": "mohrafik",
+    "display_name": "Mohamed Yahya Rafik",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857334+00:00"
+  },
+  "zajabir": {
+    "id": 200270,
+    "login": "zajabir",
+    "display_name": "Zakaria Jabir",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857335+00:00"
+  },
+  "ameskine": {
+    "id": 200268,
+    "login": "ameskine",
+    "display_name": "Amine Meskine",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857337+00:00"
+  },
+  "aybareic": {
+    "id": 200265,
+    "login": "aybareic",
+    "display_name": "Ayoub Bareich",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857338+00:00"
+  },
+  "noakebli": {
+    "id": 200263,
+    "login": "noakebli",
+    "display_name": "Noura Akebli",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857340+00:00"
+  },
+  "makarkao": {
+    "id": 200262,
+    "login": "makarkao",
+    "display_name": "Mohammed Akarkaou",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857341+00:00"
+  },
+  "hqannouc": {
+    "id": 200260,
+    "login": "hqannouc",
+    "display_name": "Hatim Qannouch",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857342+00:00"
+  },
+  "ozemrani": {
+    "id": 200257,
+    "login": "ozemrani",
+    "display_name": "Othmane Zemrani",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857343+00:00"
+  },
+  "aregragu": {
+    "id": 200256,
+    "login": "aregragu",
+    "display_name": "Achraf Regragui",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857344+00:00"
+  },
+  "mlakhal": {
+    "id": 200255,
+    "login": "mlakhal",
+    "display_name": "Mohammed Lakhal",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857345+00:00"
+  },
+  "abjellal": {
+    "id": 200247,
+    "login": "abjellal",
+    "display_name": "Abderrahim Jellal",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857347+00:00"
+  },
+  "lserghin": {
+    "id": 200246,
+    "login": "lserghin",
+    "display_name": "Loukmane Serghini",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857348+00:00"
+  },
+  "abismail": {
+    "id": 200235,
+    "login": "abismail",
+    "display_name": "Abdelilah Ismaili Alaoui",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857349+00:00"
+  },
+  "ylaarare": {
+    "id": 200229,
+    "login": "ylaarare",
+    "display_name": "Youness Laarare",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857350+00:00"
+  },
+  "ahamou-t": {
+    "id": 200221,
+    "login": "ahamou-t",
+    "display_name": "Achraf Hamou Tahar",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857351+00:00"
+  },
+  "zatais": {
+    "id": 200216,
+    "login": "zatais",
+    "display_name": "Zakaria Atais",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857353+00:00"
+  },
+  "ohariss": {
+    "id": 200214,
+    "login": "ohariss",
+    "display_name": "Othmane Hariss",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857354+00:00"
+  },
+  "abouagou": {
+    "id": 200213,
+    "login": "abouagou",
+    "display_name": "Abdessamad Bouagou",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857355+00:00"
+  },
+  "haselidr": {
+    "id": 200211,
+    "login": "haselidr",
+    "display_name": "Hassan Elidrissi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857356+00:00"
+  },
+  "ybelghad": {
+    "id": 200209,
+    "login": "ybelghad",
+    "display_name": "Yacine Belghadi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857357+00:00"
+  },
+  "sel-abbo": {
+    "id": 200205,
+    "login": "sel-abbo",
+    "display_name": "Soufiane El Abboubi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857358+00:00"
+  },
+  "moel-hib": {
+    "id": 200204,
+    "login": "moel-hib",
+    "display_name": "Mohamed Amine El Hiba",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857360+00:00"
+  },
+  "jkarami": {
+    "id": 200198,
+    "login": "jkarami",
+    "display_name": "Jamal Karami",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857362+00:00"
+  },
+  "een-nasi": {
+    "id": 200188,
+    "login": "een-nasi",
+    "display_name": "El Mehdi En Nasiri",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857363+00:00"
+  },
+  "ekhallaf": {
+    "id": 200183,
+    "login": "ekhallaf",
+    "display_name": "Ezzahia Khallaf",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857364+00:00"
+  },
+  "bamdjar": {
+    "id": 200182,
+    "login": "bamdjar",
+    "display_name": "Brahim Amdjar",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857366+00:00"
+  },
+  "afadlaou": {
+    "id": 200176,
+    "login": "afadlaou",
+    "display_name": "Achraf Fadlaoui",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857367+00:00"
+  },
+  "liyassin": {
+    "id": 200173,
+    "login": "liyassin",
+    "display_name": "Lina Yassine",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857368+00:00"
+  },
+  "ilhannou": {
+    "id": 200170,
+    "login": "ilhannou",
+    "display_name": "Imad Lhannouni",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857370+00:00"
+  },
+  "ochachi": {
+    "id": 200165,
+    "login": "ochachi",
+    "display_name": "Oumaima Chachi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857371+00:00"
+  },
+  "olachhab": {
+    "id": 200157,
+    "login": "olachhab",
+    "display_name": "Oussama Lachhab",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857372+00:00"
+  },
+  "schahir": {
+    "id": 200150,
+    "login": "schahir",
+    "display_name": "Said Chahir",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857373+00:00"
+  },
+  "melkhatr": {
+    "id": 200149,
+    "login": "melkhatr",
+    "display_name": "Mohsine Elkhatri",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857374+00:00"
+  },
+  "amkoussa": {
+    "id": 200144,
+    "login": "amkoussa",
+    "display_name": "Amine Koussa",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857375+00:00"
+  },
+  "ayboudya": {
+    "id": 200138,
+    "login": "ayboudya",
+    "display_name": "Ayoub Boudya",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857376+00:00"
+  },
+  "bessabri": {
+    "id": 200132,
+    "login": "bessabri",
+    "display_name": "Basma Essabri",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857377+00:00"
+  },
+  "ayyel-ha": {
+    "id": 200131,
+    "login": "ayyel-ha",
+    "display_name": "Ayyoub El Hadi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857378+00:00"
+  },
+  "achanek": {
+    "id": 200126,
+    "login": "achanek",
+    "display_name": "Anas Chanek",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857379+00:00"
+  },
+  "kel-bahr": {
+    "id": 200124,
+    "login": "kel-bahr",
+    "display_name": "Khalid El Bahry",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857380+00:00"
+  },
+  "nbaidaou": {
+    "id": 200123,
+    "login": "nbaidaou",
+    "display_name": "Nihal Baidaoui",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857382+00:00"
+  },
+  "modryouc": {
+    "id": 200122,
+    "login": "modryouc",
+    "display_name": "Mohamed Dryouch",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857383+00:00"
+  },
+  "mbouyi": {
+    "id": 200119,
+    "login": "mbouyi",
+    "display_name": "Malak Bouyi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857385+00:00"
+  },
+  "aazounda": {
+    "id": 200113,
+    "login": "aazounda",
+    "display_name": "Abdellah Azounda",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857386+00:00"
+  },
+  "hidsaid": {
+    "id": 200112,
+    "login": "hidsaid",
+    "display_name": "Hafsa Idsaid",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857387+00:00"
+  },
+  "anassih": {
+    "id": 200109,
+    "login": "anassih",
+    "display_name": "Aymane Nassih",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857388+00:00"
+  },
+  "adzahrao": {
+    "id": 200104,
+    "login": "adzahrao",
+    "display_name": "Adam Zahraoui",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857389+00:00"
+  },
+  "nbenhssi": {
+    "id": 200102,
+    "login": "nbenhssi",
+    "display_name": "Noura Benhssine",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857390+00:00"
+  },
+  "hes-saou": {
+    "id": 200099,
+    "login": "hes-saou",
+    "display_name": "Hajar Es Saoudi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857391+00:00"
+  },
+  "houardi": {
+    "id": 200097,
+    "login": "houardi",
+    "display_name": "Hicham Ouardi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857392+00:00"
+  },
+  "mel-hajj": {
+    "id": 200095,
+    "login": "mel-hajj",
+    "display_name": "Mouad El Hajji",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857393+00:00"
+  },
+  "aben-dri": {
+    "id": 200093,
+    "login": "aben-dri",
+    "display_name": "Alae Ben Dris Alami",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857394+00:00"
+  },
+  "mabdelha": {
+    "id": 200090,
+    "login": "mabdelha",
+    "display_name": "Marouan Abdelhaq",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857396+00:00"
+  },
+  "anlibrin": {
+    "id": 200088,
+    "login": "anlibrin",
+    "display_name": "Anas Librini",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857397+00:00"
+  },
+  "abalk": {
+    "id": 200084,
+    "login": "abalk",
+    "display_name": "Ahmed Balk",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857398+00:00"
+  },
+  "mtawil": {
+    "id": 200082,
+    "login": "mtawil",
+    "display_name": "Mohamed Tawil",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857399+00:00"
+  },
+  "hbousset": {
+    "id": 200079,
+    "login": "hbousset",
+    "display_name": "Hamza Boussetta",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857401+00:00"
+  },
+  "souichou": {
+    "id": 200078,
+    "login": "souichou",
+    "display_name": "Souhail Ouichou",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857403+00:00"
+  },
+  "mbounoui": {
+    "id": 200061,
+    "login": "mbounoui",
+    "display_name": "Mehdi Bounouif",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857404+00:00"
+  },
+  "mlyamani": {
+    "id": 200059,
+    "login": "mlyamani",
+    "display_name": "Mohamed Lyamani",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857405+00:00"
+  },
+  "sfaouzi": {
+    "id": 200057,
+    "login": "sfaouzi",
+    "display_name": "Said Faouzi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857406+00:00"
+  },
+  "abchaman": {
+    "id": 200055,
+    "login": "abchaman",
+    "display_name": "Abderrahman Chaman",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857407+00:00"
+  },
+  "aid-bray": {
+    "id": 200054,
+    "login": "aid-bray",
+    "display_name": "Abdellah Id Brayme",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857408+00:00"
+  },
+  "mel-hafi": {
+    "id": 200053,
+    "login": "mel-hafi",
+    "display_name": "Mohamed Maamoun El Hafidy",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857409+00:00"
+  },
+  "ielmoudd": {
+    "id": 200048,
+    "login": "ielmoudd",
+    "display_name": "Imane Elmoudden",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857410+00:00"
+  },
+  "mokoubar": {
+    "id": 200043,
+    "login": "mokoubar",
+    "display_name": "Mohamed Khalil Koubariou",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857411+00:00"
+  },
+  "reoutale": {
+    "id": 200042,
+    "login": "reoutale",
+    "display_name": "Redouane  Outaleb",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857413+00:00"
+  },
+  "melmrabi": {
+    "id": 200038,
+    "login": "melmrabi",
+    "display_name": "Maryem Elmrabit",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857414+00:00"
+  },
+  "lalfidi": {
+    "id": 200037,
+    "login": "lalfidi",
+    "display_name": "Lobna Alfidi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857415+00:00"
+  },
+  "yael-bar": {
+    "id": 200029,
+    "login": "yael-bar",
+    "display_name": "Yassine El Baraka",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857418+00:00"
+  },
+  "nkasimi": {
+    "id": 200023,
+    "login": "nkasimi",
+    "display_name": "Nabil Kasimi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857419+00:00"
+  },
+  "helfatih": {
+    "id": 200018,
+    "login": "helfatih",
+    "display_name": "Hicham Elfatihi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857420+00:00"
+  },
+  "mel-houa": {
+    "id": 200017,
+    "login": "mel-houa",
+    "display_name": "Mohamed El Houary",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857421+00:00"
+  },
+  "oobbad": {
+    "id": 200014,
+    "login": "oobbad",
+    "display_name": "Oualid Obbad",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857422+00:00"
+  },
+  "sel-bako": {
+    "id": 200013,
+    "login": "sel-bako",
+    "display_name": "Souhaib El Bakouri",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857423+00:00"
+  },
+  "abenkrar": {
+    "id": 200012,
+    "login": "abenkrar",
+    "display_name": "Ahmed Benkrara",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857424+00:00"
+  },
+  "yoel-you": {
+    "id": 200006,
+    "login": "yoel-you",
+    "display_name": "Youssef El Youssofi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857426+00:00"
+  },
+  "nafarid": {
+    "id": 200002,
+    "login": "nafarid",
+    "display_name": "Nasr Eddine Farid",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857427+00:00"
+  },
+  "klamachi": {
+    "id": 199998,
+    "login": "klamachi",
+    "display_name": "Khadija Lamachi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857428+00:00"
+  },
+  "abouchaa": {
+    "id": 199993,
+    "login": "abouchaa",
+    "display_name": "Adil Bouchaaba",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857429+00:00"
+  },
+  "zerrossa": {
+    "id": 199992,
+    "login": "zerrossa",
+    "display_name": "Zainab Errossafi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857430+00:00"
+  },
+  "moouhida": {
+    "id": 199986,
+    "login": "moouhida",
+    "display_name": "Mouaad Ouhida",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857431+00:00"
+  },
+  "nchagour": {
+    "id": 199983,
+    "login": "nchagour",
+    "display_name": "Nouamane Chagouri",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857433+00:00"
+  },
+  "slaissam": {
+    "id": 199978,
+    "login": "slaissam",
+    "display_name": "Salah Eddine Laissami",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857434+00:00"
+  },
+  "hghoutan": {
+    "id": 199976,
+    "login": "hghoutan",
+    "display_name": "Hicham Ghoutani",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857435+00:00"
+  },
+  "yaboumei": {
+    "id": 199974,
+    "login": "yaboumei",
+    "display_name": "Yahya Aboumeil",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857436+00:00"
+  },
+  "yel-bouz": {
+    "id": 199968,
+    "login": "yel-bouz",
+    "display_name": "Youssef El Bouzidi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857438+00:00"
+  },
+  "fbenjama": {
+    "id": 199966,
+    "login": "fbenjama",
+    "display_name": "Fatima Benjamaa",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857439+00:00"
+  },
+  "h-el-ahr": {
+    "id": 199961,
+    "login": "h-el-ahr",
+    "display_name": "Halima El Ahrami",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857440+00:00"
+  },
+  "yezzemry": {
+    "id": 199955,
+    "login": "yezzemry",
+    "display_name": "Youness Ezzemryouy",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857442+00:00"
+  },
+  "jarahimi": {
+    "id": 199952,
+    "login": "jarahimi",
+    "display_name": "Jamila Rahimi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857443+00:00"
+  },
+  "yel-mota": {
+    "id": 199950,
+    "login": "yel-mota",
+    "display_name": "Yassine El Motaouakkel",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857444+00:00"
+  },
+  "aben-el-": {
+    "id": 199945,
+    "login": "aben-el-",
+    "display_name": "Abdelkarim Ben El Kadi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857445+00:00"
+  },
+  "abahja": {
+    "id": 199941,
+    "login": "abahja",
+    "display_name": "Ahmed Bahja",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857446+00:00"
+  },
+  "bchiki": {
+    "id": 199940,
+    "login": "bchiki",
+    "display_name": "Badreddine Chiki",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857447+00:00"
+  },
+  "abddahma": {
+    "id": 199939,
+    "login": "abddahma",
+    "display_name": "Abdellah Dahmani",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857449+00:00"
+  },
+  "mokatfi": {
+    "id": 199938,
+    "login": "mokatfi",
+    "display_name": "Mouad Katfi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857450+00:00"
+  },
+  "shrimech": {
+    "id": 199928,
+    "login": "shrimech",
+    "display_name": "Salah Eddine Hrimeche",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857451+00:00"
+  },
+  "yel-alja": {
+    "id": 199925,
+    "login": "yel-alja",
+    "display_name": "Yassine El Alja",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857452+00:00"
+  },
+  "hael-hal": {
+    "id": 199923,
+    "login": "hael-hal",
+    "display_name": "Hamza El Hallaoui",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857453+00:00"
+  },
+  "htazidin": {
+    "id": 199912,
+    "login": "htazidin",
+    "display_name": "Hicham Tazidine",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857454+00:00"
+  },
+  "ahoummad": {
+    "id": 199909,
+    "login": "ahoummad",
+    "display_name": "Achraf Hoummada",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857455+00:00"
+  },
+  "yel-mako": {
+    "id": 199906,
+    "login": "yel-mako",
+    "display_name": "Younes El Makoudi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857456+00:00"
+  },
+  "melayyad": {
+    "id": 199905,
+    "login": "melayyad",
+    "display_name": "Mohamed Elayyady",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857458+00:00"
+  },
+  "oel-jrao": {
+    "id": 199901,
+    "login": "oel-jrao",
+    "display_name": "Omar El Jraouy",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857459+00:00"
+  },
+  "mouahman": {
+    "id": 199898,
+    "login": "mouahman",
+    "display_name": "Mohamed Ouahmane",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857460+00:00"
+  },
+  "sechlahb": {
+    "id": 199896,
+    "login": "sechlahb",
+    "display_name": "Said Echlahbi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857461+00:00"
+  },
+  "ael-hadj": {
+    "id": 199893,
+    "login": "ael-hadj",
+    "display_name": "Abderrahmane El Hadji",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857462+00:00"
+  },
+  "ybouryal": {
+    "id": 199889,
+    "login": "ybouryal",
+    "display_name": "Youssef Bouryal",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857464+00:00"
+  },
+  "lasoubai": {
+    "id": 199884,
+    "login": "lasoubai",
+    "display_name": "Lalla Soubai",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857465+00:00"
+  },
+  "hounejja": {
+    "id": 199882,
+    "login": "hounejja",
+    "display_name": "Houssam Ounejjar",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857467+00:00"
+  },
+  "hbou-dou": {
+    "id": 199881,
+    "login": "hbou-dou",
+    "display_name": "Hamza Bou Douar",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857468+00:00"
+  },
+  "mbakhach": {
+    "id": 199877,
+    "login": "mbakhach",
+    "display_name": "Mohammed Bakhacha",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857469+00:00"
+  },
+  "abafahmi": {
+    "id": 199875,
+    "login": "abafahmi",
+    "display_name": "Abdelilah Afahmi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857470+00:00"
+  },
+  "zasoulai": {
+    "id": 199867,
+    "login": "zasoulai",
+    "display_name": "Zakariya Soulaimani",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857471+00:00"
+  },
+  "moaziz": {
+    "id": 199862,
+    "login": "moaziz",
+    "display_name": "Mohammed Amine Aziz",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857472+00:00"
+  },
+  "abmoudni": {
+    "id": 199857,
+    "login": "abmoudni",
+    "display_name": "Abdessamad Moudnibe",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857473+00:00"
+  },
+  "ylamrini": {
+    "id": 199856,
+    "login": "ylamrini",
+    "display_name": "Youness Lamrini",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857474+00:00"
+  },
+  "mrouissy": {
+    "id": 199855,
+    "login": "mrouissy",
+    "display_name": "Mohamed Amine Rouissy",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857475+00:00"
+  },
+  "mtarza": {
+    "id": 199849,
+    "login": "mtarza",
+    "display_name": "Mohamed Amine Tarza",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857477+00:00"
+  },
+  "jait-chd": {
+    "id": 199847,
+    "login": "jait-chd",
+    "display_name": "Jamal Ait Chdid",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857478+00:00"
+  },
+  "mowardan": {
+    "id": 199845,
+    "login": "mowardan",
+    "display_name": "Mohamed Amine Wardane",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857479+00:00"
+  },
+  "messalhi": {
+    "id": 199835,
+    "login": "messalhi",
+    "display_name": "Mohamed Fahd Essalhi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857480+00:00"
+  },
+  "isel-bar": {
+    "id": 199834,
+    "login": "isel-bar",
+    "display_name": "Ismail El Bardi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857482+00:00"
+  },
+  "haallaou": {
+    "id": 199833,
+    "login": "haallaou",
+    "display_name": "Hamza Allaoui",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857483+00:00"
+  },
+  "yolaidi-": {
+    "id": 199830,
+    "login": "yolaidi-",
+    "display_name": "Youness Laidi ",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857484+00:00"
+  },
+  "mlaidi": {
+    "id": 199828,
+    "login": "mlaidi",
+    "display_name": "Mohammed Laidi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857485+00:00"
+  },
+  "kakbour": {
+    "id": 199824,
+    "login": "kakbour",
+    "display_name": "Khalid Akbour",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857486+00:00"
+  },
+  "1337rabat_tech": {
+    "id": 198995,
+    "login": "1337rabat_tech",
+    "display_name": "Tech Rabat",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857487+00:00"
+  },
+  "bkali": {
+    "id": 195561,
+    "login": "bkali",
+    "display_name": "El Bekkali Abdellah",
+    "level": 0,
+    "pool_year": null,
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857488+00:00"
+  },
+  "omi": {
+    "id": 195504,
+    "login": "omi",
+    "display_name": "Mehdi Charouh",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857489+00:00"
+  },
+  "adiri": {
+    "id": 195298,
+    "login": "adiri",
+    "display_name": "Ayoub  Diri",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857490+00:00"
+  },
+  "hzangui": {
+    "id": 195204,
+    "login": "hzangui",
+    "display_name": "Hamza Zangui",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857493+00:00"
+  },
+  "mtaybi": {
+    "id": 195196,
+    "login": "mtaybi",
+    "display_name": "Mohamed Rayane Taybi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857494+00:00"
+  },
+  "slasfar": {
+    "id": 195141,
+    "login": "slasfar",
+    "display_name": "Soufiane Lasfar",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857495+00:00"
+  },
+  "sel-bech": {
+    "id": 195096,
+    "login": "sel-bech",
+    "display_name": "Saad El Bechna",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857497+00:00"
+  },
+  "aijadid": {
+    "id": 195039,
+    "login": "aijadid",
+    "display_name": "Aimane Jadid",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857498+00:00"
+  },
+  "kemzouri": {
+    "id": 195029,
+    "login": "kemzouri",
+    "display_name": "Kenza Mzouri",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857499+00:00"
+  },
+  "abraji": {
+    "id": 195020,
+    "login": "abraji",
+    "display_name": "Abderrazzak Raji",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857500+00:00"
+  },
+  "nosahimi": {
+    "id": 195007,
+    "login": "nosahimi",
+    "display_name": "Nour Eddine Sahimi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857501+00:00"
+  },
+  "abounade": {
+    "id": 194995,
+    "login": "abounade",
+    "display_name": "Ayoub Bounader",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857502+00:00"
+  },
+  "cfarai": {
+    "id": 194930,
+    "login": "cfarai",
+    "display_name": "Chaymae Farai",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857503+00:00"
+  },
+  "mbrouk": {
+    "id": 194901,
+    "login": "mbrouk",
+    "display_name": "Marouane Brouk",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857504+00:00"
+  },
+  "aedarkao": {
+    "id": 194894,
+    "login": "aedarkao",
+    "display_name": "Amine Edarkaoui",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857506+00:00"
+  },
+  "habdella": {
+    "id": 194889,
+    "login": "habdella",
+    "display_name": "Hatim Abdellaoui",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857507+00:00"
+  },
+  "maddame": {
+    "id": 194884,
+    "login": "maddame",
+    "display_name": "Mohammed Addame",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857508+00:00"
+  },
+  "sel-ghai": {
+    "id": 194879,
+    "login": "sel-ghai",
+    "display_name": "Salma El Ghaib",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857509+00:00"
+  },
+  "kmarjij": {
+    "id": 194824,
+    "login": "kmarjij",
+    "display_name": "Karim Marjij",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857510+00:00"
+  },
+  "kel-mous": {
+    "id": 194766,
+    "login": "kel-mous",
+    "display_name": "Khalid El Moussati",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857512+00:00"
+  },
+  "mtaleb": {
+    "id": 194763,
+    "login": "mtaleb",
+    "display_name": "Mohamed  Taleb",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857513+00:00"
+  },
+  "sohamdan": {
+    "id": 194676,
+    "login": "sohamdan",
+    "display_name": "Soulaiman Hamdan",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857515+00:00"
+  },
+  "wmansour": {
+    "id": 194663,
+    "login": "wmansour",
+    "display_name": "Wail Mansour Mansouri",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857516+00:00"
+  },
+  "ichraq": {
+    "id": 192558,
+    "login": "ichraq",
+    "display_name": "Ichraq Edderqi",
+    "level": 0,
+    "pool_year": null,
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857518+00:00"
+  },
+  "mbarrah": {
+    "id": 190214,
+    "login": "mbarrah",
+    "display_name": "Mohamed Barrah",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857519+00:00"
+  },
+  "jabouhni": {
+    "id": 190161,
+    "login": "jabouhni",
+    "display_name": "Jaafar Bouhnine",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857520+00:00"
+  },
+  "mait-oub": {
+    "id": 190062,
+    "login": "mait-oub",
+    "display_name": "Mohamed Ait Oubarka",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857521+00:00"
+  },
+  "iammar": {
+    "id": 190044,
+    "login": "iammar",
+    "display_name": "Ismail Ammar",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857522+00:00"
+  },
+  "abbenmou": {
+    "id": 190020,
+    "login": "abbenmou",
+    "display_name": "Abderrahmane Benmoussa",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857523+00:00"
+  },
+  "yjaafar": {
+    "id": 190018,
+    "login": "yjaafar",
+    "display_name": "Yahya Jaafar",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857524+00:00"
+  },
+  "oessmiri": {
+    "id": 190013,
+    "login": "oessmiri",
+    "display_name": "Ossama Essmiri",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857525+00:00"
+  },
+  "mohel-am": {
+    "id": 190008,
+    "login": "mohel-am",
+    "display_name": "Mohamed Amine El Amrani",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857526+00:00"
+  },
+  "yel-joul": {
+    "id": 190006,
+    "login": "yel-joul",
+    "display_name": "Younes El Joulali",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857527+00:00"
+  },
+  "itamsama": {
+    "id": 189996,
+    "login": "itamsama",
+    "display_name": "Ibrahim Tamsamani",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857529+00:00"
+  },
+  "obentahi": {
+    "id": 189935,
+    "login": "obentahi",
+    "display_name": "Omar Bentahir",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857530+00:00"
+  },
+  "mnasih": {
+    "id": 189922,
+    "login": "mnasih",
+    "display_name": "Mohamed Nasih",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857531+00:00"
+  },
+  "azrig": {
+    "id": 189917,
+    "login": "azrig",
+    "display_name": "Alaa Zrig",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857532+00:00"
+  },
+  "aagharbi": {
+    "id": 189899,
+    "login": "aagharbi",
+    "display_name": "Aymane  Agharbi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857533+00:00"
+  },
+  "mmouqtad": {
+    "id": 189889,
+    "login": "mmouqtad",
+    "display_name": "Mohammed Mouqtadi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857534+00:00"
+  },
+  "adahab": {
+    "id": 189856,
+    "login": "adahab",
+    "display_name": "Anass Dahab",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857536+00:00"
+  },
+  "yjazouli": {
+    "id": 189808,
+    "login": "yjazouli",
+    "display_name": "Youssef Jazouli",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857537+00:00"
+  },
+  "yoraji": {
+    "id": 189802,
+    "login": "yoraji",
+    "display_name": "Youssef Raji",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857538+00:00"
+  },
+  "dkhalfao": {
+    "id": 189772,
+    "login": "dkhalfao",
+    "display_name": "Driss Khalfaoui Hassani",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857539+00:00"
+  },
+  "sel-maaq": {
+    "id": 189651,
+    "login": "sel-maaq",
+    "display_name": "Saad El Maaqili",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857540+00:00"
+  },
+  "elel-m-b": {
+    "id": 189634,
+    "login": "elel-m-b",
+    "display_name": "El Hassane El M'barki",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857541+00:00"
+  },
+  "abelboua": {
+    "id": 189630,
+    "login": "abelboua",
+    "display_name": "Abdelhalim Elbouaami",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857542+00:00"
+  },
+  "asoufian": {
+    "id": 189582,
+    "login": "asoufian",
+    "display_name": "Ayoub Soufiani",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857544+00:00"
+  },
+  "obajali": {
+    "id": 189575,
+    "login": "obajali",
+    "display_name": "Oussama Bajali",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857545+00:00"
+  },
+  "zael-mou": {
+    "id": 189542,
+    "login": "zael-mou",
+    "display_name": "Zakaria El Mountassir",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857546+00:00"
+  },
+  "waissi": {
+    "id": 189510,
+    "login": "waissi",
+    "display_name": "Wassim Aissi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857547+00:00"
+  },
+  "mhaddou": {
+    "id": 189497,
+    "login": "mhaddou",
+    "display_name": "Mounir Haddou",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857548+00:00"
+  },
+  "aait-our": {
+    "id": 189468,
+    "login": "aait-our",
+    "display_name": "Aymen Ait Ouraies",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857549+00:00"
+  },
+  "yabarhda": {
+    "id": 189459,
+    "login": "yabarhda",
+    "display_name": "Yasser Barhdadi",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857550+00:00"
+  },
+  "oayyoub": {
+    "id": 189443,
+    "login": "oayyoub",
+    "display_name": "Oussama Ayyoub",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857551+00:00"
+  },
+  "ykebieb": {
+    "id": 189440,
+    "login": "ykebieb",
+    "display_name": "Yassir Kebieb",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857553+00:00"
+  },
+  "mochajou": {
+    "id": 189437,
+    "login": "mochajou",
+    "display_name": "Mohammed Chajoui",
+    "level": 0,
+    "pool_year": "2024",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857554+00:00"
+  },
+  "elahrach": {
+    "id": 165801,
+    "login": "elahrach",
+    "display_name": "El Mehdi Lahrach",
+    "level": 0,
+    "pool_year": "2023",
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857555+00:00"
+  },
+  "mika": {
+    "id": 134148,
+    "login": "mika",
+    "display_name": "Camille Perrot",
+    "level": 0,
+    "pool_year": null,
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857556+00:00"
+  },
+  "giuseppe": {
+    "id": 34887,
+    "login": "giuseppe",
+    "display_name": "Youssef Dahbi",
+    "level": 0,
+    "pool_year": null,
+    "blackholed_at": null,
+    "added_at": "2026-04-21T13:17:07.857557+00:00"
+  }
+}

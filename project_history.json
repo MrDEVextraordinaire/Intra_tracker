@@ -1,0 +1,123 @@
+[
+    {
+        "id": 4820554,
+        "occurrence": 1,
+        "final_mark": 100,
+        "status": "finished",
+        "validated?": true,
+        "current_team_id": 7302226,
+        "project": {
+            "id": 2708,
+            "name": "Exam Rank 02",
+            "slug": "42next-exam-rank-02",
+            "parent_id": null
+        },
+        "cursus_ids": [
+            21
+        ],
+        "marked_at": "2026-03-11T13:47:16.978Z",
+        "marked": true,
+        "retriable_at": "2026-03-11T13:47:17.170Z",
+        "created_at": "2026-03-03T14:53:48.958Z",
+        "updated_at": "2026-03-11T13:47:31.995Z",
+        "user": {
+            "id": 236612,
+            "email": "itemlali@student.1337.ma",
+            "login": "itemlali",
+            "first_name": "Imad",
+            "last_name": "Temlali",
+            "usual_full_name": "Imad Temlali",
+            "usual_first_name": "Imad",
+            "url": "https://api.intra.42.fr/v2/users/itemlali",
+            "phone": "hidden",
+            "displayname": "Imad Temlali",
+            "kind": "student",
+            "image": {
+                "link": "https://cdn.intra.42.fr/users/1bbdb9f18b030ac09237310a5059a86c/itemlali.jpeg",
+                "versions": {
+                    "large": "https://cdn.intra.42.fr/users/21f1fa089ac57386c1e718e375ff5a20/large_itemlali.jpeg",
+                    "medium": "https://cdn.intra.42.fr/users/5f48882c8361afad949ecf947d50d897/medium_itemlali.jpeg",
+                    "small": "https://cdn.intra.42.fr/users/eb272a96c5196befbedb4f5577be5ec4/small_itemlali.jpeg",
+                    "micro": "https://cdn.intra.42.fr/users/5593e457f3e267a0f67af231aae4ef8f/micro_itemlali.jpeg"
+                }
+            },
+            "staff?": false,
+            "correction_point": 13,
+            "pool_month": "august",
+            "pool_year": "2025",
+            "location": "c2r9p7",
+            "wallet": 140,
+            "anonymize_date": "2029-04-21T00:00:00.000+01:00",
+            "data_erasure_date": "2029-04-21T00:00:00.000+01:00",
+            "created_at": "2025-08-07T09:05:52.617Z",
+            "updated_at": "2026-04-21T01:07:10.550Z",
+            "alumnized_at": null,
+            "alumni?": false,
+            "active?": true
+        },
+        "teams": [
+            {
+                "id": 7290585,
+                "name": "itemlali's group",
+                "url": "https://api.intra.42.fr/v2/teams/7290585",
+                "final_mark": 50,
+                "project_id": 2708,
+                "created_at": "2026-03-03T14:53:49.036Z",
+                "updated_at": "2026-03-04T15:01:08.111Z",
+                "status": "finished",
+                "terminating_at": null,
+                "users": [
+                    {
+                        "id": 236612,
+                        "login": "itemlali",
+                        "url": "https://api.intra.42.fr/v2/users/itemlali",
+                        "leader": true,
+                        "occurrence": 0,
+                        "validated": true,
+                        "projects_user_id": 4820554
+                    }
+                ],
+                "locked?": true,
+                "validated?": false,
+                "closed?": true,
+                "repo_url": null,
+                "repo_uuid": "intra-uuid-ab207aeb-5398-4205-bdf2-75c0117154c0-7290585-itemlali",
+                "locked_at": "2026-03-03T14:53:49.072Z",
+                "closed_at": "2026-03-04T15:01:07.401Z",
+                "project_session_id": 15267,
+                "project_gitlab_path": null
+            },
+            {
+                "id": 7302226,
+                "name": "itemlali's group-1",
+                "url": "https://api.intra.42.fr/v2/teams/7302226",
+                "final_mark": 100,
+                "project_id": 2708,
+                "created_at": "2026-03-09T16:20:32.684Z",
+                "updated_at": "2026-03-11T13:47:31.357Z",
+                "status": "finished",
+                "terminating_at": null,
+                "users": [
+                    {
+                        "id": 236612,
+                        "login": "itemlali",
+                        "url": "https://api.intra.42.fr/v2/users/itemlali",
+                        "leader": true,
+                        "occurrence": 1,
+                        "validated": true,
+                        "projects_user_id": 4820554
+                    }
+                ],
+                "locked?": true,
+                "validated?": true,
+                "closed?": true,
+                "repo_url": null,
+                "repo_uuid": "intra-uuid-570dd0e9-3799-4b4d-9535-3ef93a408985-7302226-itemlali",
+                "locked_at": "2026-03-09T16:20:32.721Z",
+                "closed_at": "2026-03-11T13:47:30.808Z",
+                "project_session_id": 15267,
+                "project_gitlab_path": null
+            }
+        ]
+    }
+]
