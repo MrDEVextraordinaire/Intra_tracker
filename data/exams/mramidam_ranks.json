@@ -1,0 +1,13 @@
+{
+  "login": "mramidam",
+  "exam_ranks": {
+    "rank_04": [
+      {
+        "occurrence": 1,
+        "final_mark": 25,
+        "status": "in_progress",
+        "validated": false
+      }
+    ]
+  }
+}

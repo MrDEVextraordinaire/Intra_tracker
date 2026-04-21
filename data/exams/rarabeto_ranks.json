@@ -1,0 +1,13 @@
+{
+  "login": "rarabeto",
+  "exam_ranks": {
+    "rank_02": [
+      {
+        "occurrence": 1,
+        "final_mark": 25,
+        "status": "in_progress",
+        "validated": false
+      }
+    ]
+  }
+}

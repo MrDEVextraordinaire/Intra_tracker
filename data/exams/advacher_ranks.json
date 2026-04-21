@@ -1,0 +1,13 @@
+{
+  "login": "advacher",
+  "exam_ranks": {
+    "rank_03": [
+      {
+        "occurrence": 3,
+        "final_mark": 100,
+        "status": "finished",
+        "validated": true
+      }
+    ]
+  }
+}

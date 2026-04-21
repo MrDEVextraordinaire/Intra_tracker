@@ -1,0 +1,13 @@
+{
+  "login": "jonadomi",
+  "exam_ranks": {
+    "rank_02": [
+      {
+        "occurrence": 5,
+        "final_mark": 25,
+        "status": "finished",
+        "validated": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "login": "zalabib-",
+  "exam_ranks": {
+    "rank_03": [
+      {
+        "occurrence": 2,
+        "final_mark": 100,
+        "status": "finished",
+        "validated": true
+      }
+    ]
+  }
+}

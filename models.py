@@ -154,5 +154,58 @@ class ExcludedStudent:
         }
 
 
+@dataclass
+class ExamResult:
+    """Result of a student on an exam."""
+    exam_id: int
+    exam_name: str
+    cursus_id: int
+    cursus_name: str
+    score: float
+    total: float
+    created_at: str
+    updated_at: str
+    
+    def to_dict(self) -> dict:
+        return {
+            "exam_id": self.exam_id,
+            "exam_name": self.exam_name,
+            "cursus_id": self.cursus_id,
+            "cursus_name": self.cursus_name,
+            "score": self.score,
+            "total": self.total,
+            "created_at": self.created_at,
+            "updated_at": self.updated_at,
+        }
+    
+    @classmethod
+    def from_dict(cls, data: dict) -> "ExamResult":
+        return cls(
+            exam_id=data.get("exam_id", 0),
+            exam_name=data.get("exam_name", ""),
+            cursus_id=data.get("cursus_id", 0),
+            cursus_name=data.get("cursus_name", ""),
+            score=data.get("score", 0.0),
+            total=data.get("total", 100.0),
+            created_at=data.get("created_at", ""),
+            updated_at=data.get("updated_at", ""),
+        )
+
+
+@dataclass
+class ExamHistory:
+    """Full exam history for a student."""
+    login: str
+    fetched_at: str
+    exams: list = field(default_factory=list)
+    
+    def to_dict(self) -> dict:
+        return {
+            "login": self.login,
+            "fetched_at": self.fetched_at,
+            "exams": [e.to_dict() if isinstance(e, ExamResult) else e for e in self.exams],
+        }
+
+
 # Import timezone for the default_factory
 from datetime import timezone

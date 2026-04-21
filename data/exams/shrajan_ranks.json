@@ -1,0 +1,13 @@
+{
+  "login": "shrajan",
+  "exam_ranks": {
+    "rank_02": [
+      {
+        "occurrence": 0,
+        "final_mark": 25,
+        "status": "finished",
+        "validated": false
+      }
+    ]
+  }
+}

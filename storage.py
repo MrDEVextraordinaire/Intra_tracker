@@ -13,13 +13,15 @@ log = logging.getLogger(__name__)
 
 DATA_DIR = Path("data")
 LOCATIONS_DIR = DATA_DIR / "locations"
+EXAMS_DIR = DATA_DIR / "exams"
 
 
 def ensure_dirs():
     """Ensure data directories exist."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     LOCATIONS_DIR.mkdir(parents=True, exist_ok=True)
-    log.debug(f"[STORAGE] ensure_dirs: {DATA_DIR}, {LOCATIONS_DIR}")
+    EXAMS_DIR.mkdir(parents=True, exist_ok=True)
+    log.debug(f"[STORAGE] ensure_dirs: {DATA_DIR}, {LOCATIONS_DIR}, {EXAMS_DIR}")
 
 
 def load_json(path: Path, default: Optional[Any] = None) -> Any:
@@ -119,6 +121,16 @@ def load_locations(login: str) -> dict:
 def save_locations(login: str, location_data: dict) -> None:
     """Save location history for a student."""
     save_json(LOCATIONS_DIR / f"{login}.json", location_data)
+
+
+def load_exams(login: str) -> dict:
+    """Load exam history for a student."""
+    return load_json(EXAMS_DIR / f"{login}.json")
+
+
+def save_exams(login: str, exam_data: dict) -> None:
+    """Save exam history for a student."""
+    save_json(EXAMS_DIR / f"{login}.json", exam_data)
 
 
 def load_state() -> dict:

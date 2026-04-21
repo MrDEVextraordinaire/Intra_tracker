@@ -1,0 +1,13 @@
+{
+  "login": "mboutte",
+  "exam_ranks": {
+    "rank_03": [
+      {
+        "occurrence": 0,
+        "final_mark": 100,
+        "status": "finished",
+        "validated": true
+      }
+    ]
+  }
+}

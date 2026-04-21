@@ -1,0 +1,13 @@
+{
+  "login": "rpedreno",
+  "exam_ranks": {
+    "rank_02": [
+      {
+        "occurrence": 0,
+        "final_mark": 100,
+        "status": "finished",
+        "validated": true
+      }
+    ]
+  }
+}

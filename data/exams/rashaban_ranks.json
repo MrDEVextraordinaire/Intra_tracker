@@ -1,0 +1,13 @@
+{
+  "login": "rashaban",
+  "exam_ranks": {
+    "rank_02": [
+      {
+        "occurrence": 8,
+        "final_mark": 75,
+        "status": "finished",
+        "validated": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "login": "adahab",
+  "fetched_at": "2026-04-21T16:01:28.078952+00:00",
+  "exams": [
+    {
+      "exam_id": 27483,
+      "exam_name": "exam",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-12-16T12:34:36.961Z",
+      "updated_at": "2025-12-18T09:07:55.842Z"
+    },
+    {
+      "exam_id": 27413,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-12-10T10:58:50.980Z",
+      "updated_at": "2025-12-11T07:25:19.487Z"
+    },
+    {
+      "exam_id": 26149,
+      "exam_name": "Exam Rank XX",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-09-23T14:16:38.245Z",
+      "updated_at": "2025-09-24T13:32:52.556Z"
+    },
+    {
+      "exam_id": 25398,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-08-11T10:15:16.715Z",
+      "updated_at": "2025-08-12T12:34:38.438Z"
+    },
+    {
+      "exam_id": 25263,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-08-04T10:56:44.829Z",
+      "updated_at": "2025-08-06T13:26:09.917Z"
+    },
+    {
+      "exam_id": 25029,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-07-21T15:23:08.630Z",
+      "updated_at": "2025-07-23T13:44:24.063Z"
+    },
+    {
+      "exam_id": 24930,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-07-15T11:05:35.630Z",
+      "updated_at": "2025-07-16T13:51:17.186Z"
+    },
+    {
+      "exam_id": 23929,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-05-12T13:04:35.437Z",
+      "updated_at": "2025-05-14T13:40:40.447Z"
+    },
+    {
+      "exam_id": 23821,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-05-06T10:59:02.458Z",
+      "updated_at": "2025-05-08T13:58:23.220Z"
+    },
+    {
+      "exam_id": 23547,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-04-17T17:05:34.498Z",
+      "updated_at": "2025-04-21T13:59:30.279Z"
+    },
+    {
+      "exam_id": 23411,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-04-08T17:57:09.862Z",
+      "updated_at": "2025-04-10T13:41:53.408Z"
+    },
+    {
+      "exam_id": 23305,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-04-02T11:25:18.033Z",
+      "updated_at": "2025-04-03T14:17:49.951Z"
+    },
+    {
+      "exam_id": 23169,
+      "exam_name": "Exam X",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-03-24T14:22:57.685Z",
+      "updated_at": "2025-03-26T11:42:38.150Z"
+    },
+    {
+      "exam_id": 22816,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-03-04T11:50:04.530Z",
+      "updated_at": "2025-03-05T11:52:09.768Z"
+    },
+    {
+      "exam_id": 22101,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-01-21T17:18:50.870Z",
+      "updated_at": "2025-01-22T13:59:05.862Z"
+    },
+    {
+      "exam_id": 19193,
+      "exam_name": "C Piscine Final Exam",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2024-07-17T17:35:58.963Z",
+      "updated_at": "2024-07-19T09:03:34.388Z"
+    },
+    {
+      "exam_id": 19056,
+      "exam_name": "C Piscine Exam 02",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2024-07-10T17:13:47.283Z",
+      "updated_at": "2024-07-12T14:08:16.473Z"
+    },
+    {
+      "exam_id": 18930,
+      "exam_name": "C Piscine Exam 01",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2024-07-03T16:23:52.135Z",
+      "updated_at": "2024-07-05T10:44:48.069Z"
+    },
+    {
+      "exam_id": 18797,
+      "exam_name": "C Piscine Exam 00",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2024-06-26T16:51:14.729Z",
+      "updated_at": "2024-06-28T14:07:53.732Z"
+    }
+  ]
+}

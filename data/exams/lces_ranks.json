@@ -1,0 +1,13 @@
+{
+  "login": "lces",
+  "exam_ranks": {
+    "rank_03": [
+      {
+        "occurrence": 0,
+        "final_mark": 64,
+        "status": "finished",
+        "validated": false
+      }
+    ]
+  }
+}

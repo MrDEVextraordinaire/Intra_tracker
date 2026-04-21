@@ -1,0 +1,54 @@
+{
+  "login": "delminia",
+  "fetched_at": "2026-04-21T15:57:57.501189+00:00",
+  "exams": [
+    {
+      "exam_id": 29117,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2026-04-07T12:49:44.505Z",
+      "updated_at": "2026-04-08T09:14:36.504Z"
+    },
+    {
+      "exam_id": 27911,
+      "exam_name": "Exam Rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2026-01-20T19:22:51.416Z",
+      "updated_at": "2026-01-22T07:59:31.806Z"
+    },
+    {
+      "exam_id": 25809,
+      "exam_name": "C Piscine  Exam Final",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-09-03T16:20:07.262Z",
+      "updated_at": "2025-09-04T22:40:12.070Z"
+    },
+    {
+      "exam_id": 25683,
+      "exam_name": "C Piscine Exam 02",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-08-27T16:02:04.503Z",
+      "updated_at": "2025-08-29T14:06:57.019Z"
+    },
+    {
+      "exam_id": 25562,
+      "exam_name": "C Piscine Exam 01",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-08-20T13:59:17.514Z",
+      "updated_at": "2025-08-22T14:15:24.184Z"
+    },
+    {
+      "exam_id": 25479,
+      "exam_name": "C Piscine Exam 00",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-08-14T13:24:17.692Z",
+      "updated_at": "2025-08-15T14:24:16.393Z"
+    }
+  ]
+}

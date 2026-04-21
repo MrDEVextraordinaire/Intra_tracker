@@ -1,0 +1,13 @@
+{
+  "login": "bmorvai",
+  "exam_ranks": {
+    "rank_02": [
+      {
+        "occurrence": 0,
+        "final_mark": 75,
+        "status": "finished",
+        "validated": false
+      }
+    ]
+  }
+}

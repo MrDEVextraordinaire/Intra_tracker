@@ -1,0 +1,13 @@
+{
+  "login": "rush1",
+  "exam_ranks": {
+    "rank_02": [
+      {
+        "occurrence": 0,
+        "final_mark": 0,
+        "status": "finished",
+        "validated": false
+      }
+    ]
+  }
+}

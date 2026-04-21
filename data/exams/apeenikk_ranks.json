@@ -1,0 +1,13 @@
+{
+  "login": "apeenikk",
+  "exam_ranks": {
+    "rank_02": [
+      {
+        "occurrence": 0,
+        "final_mark": null,
+        "status": "in_progress",
+        "validated": null
+      }
+    ]
+  }
+}

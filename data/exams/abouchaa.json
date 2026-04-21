@@ -1,0 +1,78 @@
+{
+  "login": "abouchaa",
+  "fetched_at": "2026-04-21T15:59:39.479969+00:00",
+  "exams": [
+    {
+      "exam_id": 23547,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-04-17T17:05:34.498Z",
+      "updated_at": "2025-04-21T13:59:30.279Z"
+    },
+    {
+      "exam_id": 23509,
+      "exam_name": "Exam rank X",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-04-14T17:42:04.790Z",
+      "updated_at": "2025-04-17T13:47:40.577Z"
+    },
+    {
+      "exam_id": 23467,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-04-10T17:10:18.775Z",
+      "updated_at": "2025-04-11T13:38:20.408Z"
+    },
+    {
+      "exam_id": 23411,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-04-08T17:57:09.862Z",
+      "updated_at": "2025-04-10T13:41:53.408Z"
+    },
+    {
+      "exam_id": 23305,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-04-02T11:25:18.033Z",
+      "updated_at": "2025-04-03T14:17:49.951Z"
+    },
+    {
+      "exam_id": 20238,
+      "exam_name": "Exam Final",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2024-09-19T10:48:13.925Z",
+      "updated_at": "2024-09-20T07:49:32.278Z"
+    },
+    {
+      "exam_id": 20129,
+      "exam_name": "C Piscine Exam 02",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2024-09-12T18:56:54.739Z",
+      "updated_at": "2024-09-13T11:57:43.816Z"
+    },
+    {
+      "exam_id": 19968,
+      "exam_name": "C Piscine Exam 01",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2024-09-05T10:33:08.812Z",
+      "updated_at": "2024-09-06T13:01:37.976Z"
+    },
+    {
+      "exam_id": 19832,
+      "exam_name": "C Piscine Exam 00",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2024-08-29T09:00:28.474Z",
+      "updated_at": "2024-08-30T12:03:51.840Z"
+    }
+  ]
+}

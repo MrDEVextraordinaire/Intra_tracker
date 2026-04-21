@@ -1,0 +1,21 @@
+{
+  "login": "svan-den",
+  "exam_ranks": {
+    "rank_04": [
+      {
+        "occurrence": 0,
+        "final_mark": 100,
+        "status": "finished",
+        "validated": true
+      }
+    ],
+    "rank_05": [
+      {
+        "occurrence": 0,
+        "final_mark": 100,
+        "status": "finished",
+        "validated": true
+      }
+    ]
+  }
+}

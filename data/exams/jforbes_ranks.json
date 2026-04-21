@@ -1,0 +1,13 @@
+{
+  "login": "jforbes",
+  "exam_ranks": {
+    "rank_02": [
+      {
+        "occurrence": 5,
+        "final_mark": 100,
+        "status": "finished",
+        "validated": true
+      }
+    ]
+  }
+}

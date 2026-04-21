@@ -1,0 +1,13 @@
+{
+  "login": "lnakad",
+  "exam_ranks": {
+    "rank_03": [
+      {
+        "occurrence": 0,
+        "final_mark": null,
+        "status": "in_progress",
+        "validated": null
+      }
+    ]
+  }
+}

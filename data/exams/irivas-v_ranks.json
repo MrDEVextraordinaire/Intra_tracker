@@ -1,0 +1,13 @@
+{
+  "login": "irivas-v",
+  "exam_ranks": {
+    "rank_02": [
+      {
+        "occurrence": 7,
+        "final_mark": 100,
+        "status": "finished",
+        "validated": true
+      }
+    ]
+  }
+}

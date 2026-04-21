@@ -1,0 +1,13 @@
+{
+  "login": "asanz-vi",
+  "exam_ranks": {
+    "rank_02": [
+      {
+        "occurrence": 3,
+        "final_mark": 100,
+        "status": "finished",
+        "validated": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "login": "nisalmon",
+  "exam_ranks": {
+    "rank_04": [
+      {
+        "occurrence": 0,
+        "final_mark": null,
+        "status": "in_progress",
+        "validated": null
+      }
+    ]
+  }
+}

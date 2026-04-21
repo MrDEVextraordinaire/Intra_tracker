@@ -1,0 +1,62 @@
+{
+  "login": "kel-bahr",
+  "fetched_at": "2026-04-21T15:59:21.453039+00:00",
+  "exams": [
+    {
+      "exam_id": 26862,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-11-04T12:16:58.739Z",
+      "updated_at": "2025-11-05T13:56:24.333Z"
+    },
+    {
+      "exam_id": 23547,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-04-17T17:05:34.498Z",
+      "updated_at": "2025-04-21T13:59:30.279Z"
+    },
+    {
+      "exam_id": 22230,
+      "exam_name": "Exam Rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-01-29T11:02:03.828Z",
+      "updated_at": "2025-01-30T13:56:50.006Z"
+    },
+    {
+      "exam_id": 20238,
+      "exam_name": "Exam Final",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2024-09-19T10:48:13.925Z",
+      "updated_at": "2024-09-20T07:49:32.278Z"
+    },
+    {
+      "exam_id": 20129,
+      "exam_name": "C Piscine Exam 02",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2024-09-12T18:56:54.739Z",
+      "updated_at": "2024-09-13T11:57:43.816Z"
+    },
+    {
+      "exam_id": 19968,
+      "exam_name": "C Piscine Exam 01",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2024-09-05T10:33:08.812Z",
+      "updated_at": "2024-09-06T13:01:37.976Z"
+    },
+    {
+      "exam_id": 19832,
+      "exam_name": "C Piscine Exam 00",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2024-08-29T09:00:28.474Z",
+      "updated_at": "2024-08-30T12:03:51.840Z"
+    }
+  ]
+}

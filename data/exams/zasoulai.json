@@ -1,0 +1,166 @@
+{
+  "login": "zasoulai",
+  "fetched_at": "2026-04-21T15:59:58.703338+00:00",
+  "exams": [
+    {
+      "exam_id": 27143,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-11-24T13:08:22.986Z",
+      "updated_at": "2025-11-26T13:11:43.219Z"
+    },
+    {
+      "exam_id": 27046,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-11-17T17:14:02.920Z",
+      "updated_at": "2025-11-19T14:15:13.163Z"
+    },
+    {
+      "exam_id": 26862,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-11-04T12:16:58.739Z",
+      "updated_at": "2025-11-05T13:56:24.333Z"
+    },
+    {
+      "exam_id": 25263,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-08-04T10:56:44.829Z",
+      "updated_at": "2025-08-06T13:26:09.917Z"
+    },
+    {
+      "exam_id": 25029,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-07-21T15:23:08.630Z",
+      "updated_at": "2025-07-23T13:44:24.063Z"
+    },
+    {
+      "exam_id": 24661,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-07-01T13:03:25.532Z",
+      "updated_at": "2025-07-02T13:52:30.989Z"
+    },
+    {
+      "exam_id": 24577,
+      "exam_name": "Exam Rank XX",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-06-25T16:51:16.230Z",
+      "updated_at": "2025-06-26T13:26:47.396Z"
+    },
+    {
+      "exam_id": 23929,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-05-12T13:04:35.437Z",
+      "updated_at": "2025-05-14T13:40:40.447Z"
+    },
+    {
+      "exam_id": 23821,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-05-06T10:59:02.458Z",
+      "updated_at": "2025-05-08T13:58:23.220Z"
+    },
+    {
+      "exam_id": 23509,
+      "exam_name": "Exam rank X",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-04-14T17:42:04.790Z",
+      "updated_at": "2025-04-17T13:47:40.577Z"
+    },
+    {
+      "exam_id": 23411,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-04-08T17:57:09.862Z",
+      "updated_at": "2025-04-10T13:41:53.408Z"
+    },
+    {
+      "exam_id": 22816,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-03-04T11:50:04.530Z",
+      "updated_at": "2025-03-05T11:52:09.768Z"
+    },
+    {
+      "exam_id": 22685,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-02-25T13:55:42.319Z",
+      "updated_at": "2025-02-26T14:57:05.711Z"
+    },
+    {
+      "exam_id": 22542,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-02-18T12:24:41.193Z",
+      "updated_at": "2025-02-20T14:40:42.704Z"
+    },
+    {
+      "exam_id": 22440,
+      "exam_name": "Exam rank X",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-02-10T09:01:49.258Z",
+      "updated_at": "2025-02-11T13:49:52.747Z"
+    },
+    {
+      "exam_id": 22309,
+      "exam_name": "exam rank",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2025-02-03T15:03:18.124Z",
+      "updated_at": "2025-02-04T13:56:30.229Z"
+    },
+    {
+      "exam_id": 20238,
+      "exam_name": "Exam Final",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2024-09-19T10:48:13.925Z",
+      "updated_at": "2024-09-20T07:49:32.278Z"
+    },
+    {
+      "exam_id": 20129,
+      "exam_name": "C Piscine Exam 02",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2024-09-12T18:56:54.739Z",
+      "updated_at": "2024-09-13T11:57:43.816Z"
+    },
+    {
+      "exam_id": 19968,
+      "exam_name": "C Piscine Exam 01",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2024-09-05T10:33:08.812Z",
+      "updated_at": "2024-09-06T13:01:37.976Z"
+    },
+    {
+      "exam_id": 19832,
+      "exam_name": "C Piscine Exam 00",
+      "score": 0.0,
+      "total": 100.0,
+      "created_at": "2024-08-29T09:00:28.474Z",
+      "updated_at": "2024-08-30T12:03:51.840Z"
+    }
+  ]
+}

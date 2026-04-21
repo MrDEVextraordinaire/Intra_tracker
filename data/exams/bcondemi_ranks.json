@@ -1,0 +1,13 @@
+{
+  "login": "bcondemi",
+  "exam_ranks": {
+    "rank_03": [
+      {
+        "occurrence": 2,
+        "final_mark": 32,
+        "status": "in_progress",
+        "validated": false
+      }
+    ]
+  }
+}

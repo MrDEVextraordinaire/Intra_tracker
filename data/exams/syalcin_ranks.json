@@ -1,0 +1,13 @@
+{
+  "login": "syalcin",
+  "exam_ranks": {
+    "rank_04": [
+      {
+        "occurrence": 1,
+        "final_mark": 50,
+        "status": "in_progress",
+        "validated": false
+      }
+    ]
+  }
+}

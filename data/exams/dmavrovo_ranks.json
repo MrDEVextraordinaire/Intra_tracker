@@ -1,0 +1,13 @@
+{
+  "login": "dmavrovo",
+  "exam_ranks": {
+    "rank_02": [
+      {
+        "occurrence": 2,
+        "final_mark": 75,
+        "status": "in_progress",
+        "validated": false
+      }
+    ]
+  }
+}

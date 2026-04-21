@@ -1,0 +1,13 @@
+{
+  "login": "lucas",
+  "exam_ranks": {
+    "rank_02": [
+      {
+        "occurrence": 1,
+        "final_mark": 25,
+        "status": "finished",
+        "validated": false
+      }
+    ]
+  }
+}
