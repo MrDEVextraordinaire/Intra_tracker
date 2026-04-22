@@ -12,7 +12,7 @@ TIER2_CEIL = 69.99
 ATTEMPT_DECAY = 0.78
 GAMBLE_DECAY = 0.82
 QUALITY_FLOOR = 0.45
-WEEK_PENALTY = 10.0
+TIER1_DECAY = 0.90
 TIER2_WEEK_P = 0.10
 RANK_KEYS = ["rank_02", "rank_03", "rank_04", "rank_05"]
 EXAM_HOUR = 10
@@ -45,7 +45,7 @@ def score_single_exam(occurrences, earliest_dt=None):
             pass
     
     if n_attempts == 1:
-        final = max(TIER1_FLOOR, TIER1_CEIL - (weeks_late * WEEK_PENALTY))
+        final = TIER1_CEIL * (TIER1_DECAY ** weeks_late)
         return {"tier": 1, "final": round(final, 2), "weeks_late": weeks_late, "exam_dt": exam_dt, "n_attempts": 1}
     
     attempt_factor = ATTEMPT_DECAY ** (n_attempts - 1)
@@ -59,8 +59,8 @@ def score_single_exam(occurrences, earliest_dt=None):
         quality_factor = 1.0
     
     base = TIER2_CEIL * attempt_factor * gamble_factor * quality_factor
-    delay_multiplier = max(0.70, 1.0 - (weeks_late * TIER2_WEEK_P))
-    final = min(base * delay_multiplier, TIER2_CEIL)
+    delay_multiplier = 1.0 / (1.0 + weeks_late * TIER2_WEEK_P)
+    final = base * delay_multiplier
     
     return {"tier": 2, "final": round(final, 2), "weeks_late": weeks_late, "exam_dt": exam_dt, "n_attempts": n_attempts}
 

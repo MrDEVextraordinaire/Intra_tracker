@@ -23711,20 +23711,6 @@
       ]
     }
   },
-  "terabat": {
-    "login": "terabat",
-    "exam_ranks": {
-      "rank_02": [
-        {
-          "occurrence": 0,
-          "date": "2024-10-18",
-          "score": 100,
-          "passed": true
-        }
-      ]
-    },
-    "piscine_exams": {}
-  },
   "trabat": {
     "login": "trabat",
     "exam_ranks": {},

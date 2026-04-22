@@ -15,7 +15,7 @@ import dtale.global_state
 # CONFIG
 # ─────────────────────────────────────────────────────────────────────────────
 
-RESULTS_FILE = "results.json"
+RESULTS_FILE = "data/exam_ranks.json"
 POLL_SECONDS = 5
 
 # ── Piscine ───────────────────────────────────────────────────────────────────
@@ -55,28 +55,33 @@ TIER2_CEIL  = 69.99
 
 # ── Tier 2 penalty knobs ──────────────────────────────────────────────────────
 # attempt_factor:  0.78^(n-1)  →  2 att=0.78, 3=0.61, 4=0.47, 5=0.37
-# gamble_factor:   0.82^drops  →  1 drop=0.82, 2=0.67, 3=0.55
+# gamble_factor:   0.82^(drops + stagnation × 0.5)
+#                 drops = score decreases, stagnation = improvement < 15 points
 # quality_factor:  [0.45, 1.0] →  wider range than old [0.70, 1.0]
-# week_penalty:    10 points lost per week late (Tier 1)
-# tier2_week_p:   10% penalty per week late (Tier 2)
+# tier1_decay:    0.90^weeks_late - exponential decay for tier 1
+# tier2_week_p:   hyperbolic decay: 1 / (1 + weeks × 0.10)
 ATTEMPT_DECAY = 0.78
 GAMBLE_DECAY  = 0.82
 QUALITY_FLOOR = 0.45
-WEEK_PENALTY  = 10.0
+TIER1_DECAY   = 0.90
 TIER2_WEEK_P  = 0.10
+STAGNATION_DELTA = 15    # points of improvement below which = stagnation
+STAGNATION_WEIGHT = 0.5  # stagnation counts at half the rate of drops
 
 # ── Streak (multiplicative, not additive) ─────────────────────────────────────
 # Applied to rank_score as a multiplier in [1.0, 1.25]
-# Each rank in a streak adds STREAK_STEP × streak_length
-# Gap between ranks scales the bonus down for slow movers
+# Tier 1 pass: full nudge = STREAK_STEP × streak_length × gap_factor
+# Tier 2 pass: partial nudge = STREAK_STEP × 0.4 × streak_length × gap_factor
+# No attempt: preserve streak (neutral)
 STREAK_STEP      = 0.04
+STREAK_T2_FACTOR = 0.4    # Tier 2 gets 40% of full streak bonus
 MAX_STREAK_BONUS = 0.25
 GAP_FLOOR        = 0.30   # min gap factor (waiting 4+ weeks = 30% of potential)
 MAX_GAP_WEEKS    = 4
 
 # ── Final score weights ───────────────────────────────────────────────────────
-PISCINE_W = 0.60
-RANK_W    = 0.40
+PISCINE_W = 0.40
+RANK_W    = 0.60
 
 # ── Calendar ──────────────────────────────────────────────────────────────────
 EXAM_WEEKDAY  = 2    # Wednesday
@@ -141,7 +146,7 @@ def score_single_exam(occurrences: list[dict], earliest_cohort_dt: datetime | No
     occ = sorted(occurrences, key=lambda x: x["occurrence"])
 
     pass_idx = next(
-        (i for i, o in enumerate(occ) if o.get("score", 0) >= PASS_SCORE),
+        (i for i, o in enumerate(occ) if o.get("score") and o.get("score") >= PASS_SCORE),
         None,
     )
     if pass_idx is None:
@@ -167,7 +172,7 @@ def score_single_exam(occurrences: list[dict], earliest_cohort_dt: datetime | No
 
     # ── TIER 1 ────────────────────────────────────────────────────────────────
     if n_attempts == 1:
-        final = max(TIER1_FLOOR, TIER1_CEIL - (weeks_late * WEEK_PENALTY))
+        final = TIER1_CEIL * (TIER1_DECAY ** weeks_late)
         return {
             "tier":        1,
             "final":       round(final, 4),
@@ -181,16 +186,25 @@ def score_single_exam(occurrences: list[dict], earliest_cohort_dt: datetime | No
     # 1. Attempt decay
     attempt_factor = ATTEMPT_DECAY ** (n_attempts - 1)
 
-    # 2. Gamble penalty: count score drops in the sequence of prior attempts
+    # 2. Gamble penalty: drops + stagnation as continuous signal
+    # drops = score decreases, stagnation = improvement < STAGNATION_DELTA
     drops = sum(
         1 for i in range(len(prior_scores) - 1)
         if prior_scores[i + 1] < prior_scores[i]
     )
-    gamble_factor = GAMBLE_DECAY ** drops
+    stagnation = sum(
+        1 for i in range(len(prior_scores) - 1)
+        if 0 <= prior_scores[i + 1] - prior_scores[i] < STAGNATION_DELTA
+    )
+    gamble_factor = GAMBLE_DECAY ** (drops + stagnation * STAGNATION_WEIGHT)
 
-    # 3. Prior quality: how high were prior scores on average?
+    # 3. Prior quality: weighted recency (recent attempts matter more)
+    # Blend: 0.6 × max(prior) + 0.4 × weighted_avg
     if prior_scores:
-        prior_quality  = sum(prior_scores) / (len(prior_scores) * PASS_SCORE)
+        weights = [i + 1 for i in range(len(prior_scores))]
+        weighted_avg = sum(s * w for s, w in zip(prior_scores, weights)) / (sum(weights) * PASS_SCORE)
+        best_prior = max(prior_scores) / PASS_SCORE
+        prior_quality = 0.6 * best_prior + 0.4 * weighted_avg
         quality_factor = QUALITY_FLOOR + (1.0 - QUALITY_FLOOR) * prior_quality
     else:
         quality_factor = 1.0
@@ -198,9 +212,9 @@ def score_single_exam(occurrences: list[dict], earliest_cohort_dt: datetime | No
     # Combine against tier 2 ceiling
     base = TIER2_CEIL * attempt_factor * gamble_factor * quality_factor
 
-    # Apply weeks_late penalty to Tier 2 (caps at 30% reduction for 3+ weeks late)
-    delay_multiplier = max(0.70, 1.0 - (weeks_late * TIER2_WEEK_P))
-    final = min(base * delay_multiplier, TIER2_CEIL)
+    # Apply weeks_late penalty to Tier 2 (hyperbolic decay - no hard floor)
+    delay_multiplier = 1.0 / (1.0 + weeks_late * TIER2_WEEK_P)
+    final = base * delay_multiplier
 
     return {
         "tier":           2,
@@ -265,26 +279,22 @@ def compute_streak_multiplier(rank_results: dict) -> float:
     """
     Returns a multiplier in [1.0, 1.0 + MAX_STREAK_BONUS] applied to rank_score.
 
-    Consecutive tier-1 passes across ranks earn an escalating multiplier bonus.
-    The bonus for each rank in a streak = STREAK_STEP × streak_length × gap_factor.
+    Every rank exam contributes to the multiplier:
+    - Tier 1 pass: full nudge = STREAK_STEP × streak_length × gap_factor
+    - Tier 2 pass: partial nudge = STREAK_STEP × 0.4 × streak_length × gap_factor
+    - No attempt: preserve streak (neutral, no nudge)
 
     gap_factor measures how quickly the student moved on to the next rank:
       1 week  (immediate) → gap_factor = 1.0 (full bonus)
       4+ weeks            → gap_factor = GAP_FLOOR = 0.30
 
     Ranks not yet attempted do NOT break the streak.
-    Any rank attempted but not passed first-try DOES break the streak.
+    Tier 2 passes still add partial bonus but reset streak length.
 
     Examples (all 1 week apart):
-      R02✓              → multiplier = 1.04
-      R02✓ R03✓         → multiplier = 1.12
-      R02✓ R03✓ R04✓    → multiplier = 1.24
-      R02✓ R03✓ R04✓ R05✓ R06✓ → capped at 1.25
-
-    With 4-week gaps:
-      R02✓ → +0.04×1.0  = +0.040
-      R03✓ → +0.08×0.30 = +0.024
-      Total: ×1.064
+      R02✓ (T1)         → multiplier = 1.04
+      R02✓(T1) R03✓(T1)  → multiplier = 1.12
+      R02✓(T1) R03✓(T2)  → multiplier = 1.04 + 1.04×0.4 = 1.456 → capped at 1.25
     """
     streak       = 0
     multiplier   = 1.0
@@ -295,23 +305,24 @@ def compute_streak_multiplier(rank_results: dict) -> float:
         if r is None:
             continue  # not attempted — preserve streak
 
+        # Calculate gap factor
+        gap_factor = 1.0
+        if last_pass_dt is not None and r["exam_dt"] is not None:
+            gap_weeks = (r["exam_dt"] - last_pass_dt).days / 7
+            gap_factor = max(
+                GAP_FLOOR,
+                1.0 - ((gap_weeks - 1) / (MAX_GAP_WEEKS - 1)) * (1.0 - GAP_FLOOR)
+            )
+
         if r["tier"] == 1:
             streak += 1
-
-            gap_factor = 1.0
-            if last_pass_dt is not None and r["exam_dt"] is not None:
-                gap_weeks = (r["exam_dt"] - last_pass_dt).days / 7
-                gap_factor = max(
-                    GAP_FLOOR,
-                    1.0 - ((gap_weeks - 1) / (MAX_GAP_WEEKS - 1)) * (1.0 - GAP_FLOOR)
-                )
-
-            multiplier  += STREAK_STEP * streak * gap_factor
-            last_pass_dt = r["exam_dt"]
-
+            multiplier += STREAK_STEP * streak * gap_factor
         else:
-            streak       = 0
-            last_pass_dt = r["exam_dt"]  # update reference even on failure
+            # Tier 2: partial nudge, reset streak
+            multiplier += STREAK_STEP * STREAK_T2_FACTOR * gap_factor
+            streak = 0
+
+        last_pass_dt = r["exam_dt"]
 
     return min(multiplier, 1.0 + MAX_STREAK_BONUS)
 
@@ -363,12 +374,29 @@ def build_df(raw: dict | None = None, users: list | None = None) -> pd.DataFrame
 
     for login in users:
         data = raw[login]
-        row  = {"user": login}
+        pool_year = students.get(login, {}).get("pool_year", "Unknown")
+        row  = {"user": login, "pool_year": pool_year}
 
         # ── Piscine ───────────────────────────────────────────────────────────
-        piscine_raw = data.get("piscine", {})
+        piscine_raw = data.get("piscine_exams", {})
+        
+        # Map PISCINE names to slug keys in new format
+        piscine_map = {
+            'C Piscine Exam 00': 'c-piscine-exam-00',
+            'C Piscine Exam 01': 'c-piscine-exam-01',
+            'C Piscine Exam 02': 'c-piscine-exam-02',
+            'C Piscine Final Exam': 'c-piscine-final-exam',
+        }
+        
         for k in PISCINE:
-            row[k] = piscine_raw.get(k, {}).get("final_mark")
+            slug = piscine_map.get(k)
+            if slug and slug in piscine_raw:
+                attempts = piscine_raw[slug]
+                # Get highest score
+                scores = [a.get('score', 0) for a in attempts if a.get('score')]
+                row[k] = max(scores) if scores else None
+            else:
+                row[k] = None
 
         valid_p = [k for k in PISCINE if row[k] is not None]
         if valid_p:
@@ -433,8 +461,69 @@ def build_df(raw: dict | None = None, users: list | None = None) -> pd.DataFrame
         rows.append(row)
 
     df = pd.DataFrame(rows).set_index("user")
+    
+    # Reorder: key scores first
+    key_cols = ["pool_year", "piscine_avg", "rank_score_raw", "streak_mult", "rank_score", "final_score"]
+    other_cols = [c for c in df.columns if c not in key_cols]
+    df = df[key_cols + other_cols]
+    
     df.sort_values("final_score", ascending=False, inplace=True, na_position="last")
     return df
+
+
+if __name__ == "__main__":
+    import sys
+    if len(sys.argv) > 1 and sys.argv[1] == "--no-dtale":
+        df = build_df()
+        print(f"[INIT] DataFrame: {df.shape[0]} users, {df.shape[1]} columns")
+        print(f"Pool years: {df['pool_year'].value_counts().to_dict()}")
+        print(df[['user', 'pool_year', 'final_score']].head(20))
+    else:
+        print("[INIT] Loading data...")
+        df = build_df()
+        print(f"[INIT] DataFrame: {df.shape[0]} users, {df.shape[1]} columns")
+
+        dtale.global_state.set_app_settings({"enable_custom_filters": True})
+        d = dtale.show(df, ignore_duplicate=True)
+
+        print(f"[INIT] dtale id  : {d._data_id}")
+        print(f"[INIT] URL       : {d._url}/dtale/main/{d._data_id}")
+
+        import time
+        def poll():
+            loop = 0
+            while True:
+                loop += 1
+                try:
+                    with open(RESULTS_FILE) as f:
+                        raw = json.load(f)
+                    current_df = d.data
+                    known_users = set(current_df.index.astype(str)) if current_df is not None else set()
+                    new_logins = list(set(raw.keys()) - known_users)
+                    if new_logins:
+                        print(f"[POLL {loop}] New users: {new_logins}")
+                        fragment = build_df(raw, new_logins)
+                        curr = current_df.reset_index()
+                        frag = fragment.reset_index()
+                        stale = ["level_0", "index", "Unnamed: 0"]
+                        curr.drop(columns=[c for c in stale if c in curr.columns], inplace=True)
+                        frag.drop(columns=[c for c in stale if c in frag.columns], inplace=True)
+                        updated = pd.concat([curr, frag], ignore_index=True, sort=False)
+                        if "user" in updated.columns:
+                            updated = updated.set_index("user")
+                            updated = updated[~updated.index.duplicated(keep='last')]
+                        updated.sort_values("final_score", ascending=False, inplace=True, na_position="last")
+                        d.data = updated
+                        print(f"[POLL {loop}] Total: {d.data.shape[0]}")
+                except Exception as e:
+                    print(f"[POLL {loop}] ERROR: {e}")
+                time.sleep(POLL_SECONDS)
+
+        t = threading.Thread(target=poll, daemon=True)
+        t.start()
+        print(f"[INIT] Poll thread alive: {t.is_alive()}")
+
+        input("\nPress Enter to stop...\n")
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -487,6 +576,7 @@ def poll():
                 updated = pd.concat([curr, frag], ignore_index=True, sort=False)
                 if "user" in updated.columns:
                     updated = updated.set_index("user")
+                    updated = updated[~updated.index.duplicated(keep='last')]
                 updated.sort_values(
                     "final_score", ascending=False, inplace=True, na_position="last"
                 )
