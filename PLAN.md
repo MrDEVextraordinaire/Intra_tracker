@@ -3,11 +3,11 @@
 ## Goal
 Track student performance across 13 metrics from location data + API data.
 
-## Status (2026-04-21)
+## Status (2026-04-22)
 
 ### Working ✅
 - Live location polling (`--poll`, snapshots in `data/snapshots.jsonl`)
-- Exam rank scores via HTML scraping (`exam_scrape.py`, extracts actual scores from project pages)
+- Exam rank + piscine exam fetching (`scrape_ranks.py`, uses API + teams endpoint)
 - Location tracking (snapshots saved every poll)
 
 ### Data Collected
@@ -15,7 +15,7 @@ Track student performance across 13 metrics from location data + API data.
 |------|----------|---------|
 | Students | `data/students.json` | 398 |
 | Locations | `data/snapshots.jsonl` | Multiple snapshots |
-| Exam ranks | `data/exam_ranks.json` | 381 students |
+| Exam ranks + piscine | `data/exam_ranks.json` | 385 students (375 with rank exams, 256 with retries) |
 
 ## 13 Performance Metrics
 
@@ -51,20 +51,23 @@ Track student performance across 13 metrics from location data + API data.
 ## Usage
 
 ```bash
+# Fetch exam ranks and piscine exams (API + teams endpoint for retries)
+python3 scrape_ranks.py              # All students
+python3 scrape_ranks.py --limit 10   # Test with 10 students
+python3 scrape_ranks.py --login mjabri  # Single student
+
 # Poll locations continuously (15 min interval)
 python3 cli.py --poll
 
-# Scrape exam ranks (requires fresh cookie from browser)
-python3 exam_scrape.py --limit 100  # Test with 100 students
-
 # View collected data
 ls -la data/exam_ranks.json
-head -5 data/exam_ranks.json
+python3 -c "import json; d=json.load(open('data/exam_ranks.json')); print(list(d.keys())[:5])"
 ```
 
 ## Files
-- `exam_scrape.py` - HTML scraper for exam scores (works with React/Bootstrap layouts)
-- `api_client.py` - OAuth + pagination (fixed)
+- `scrape_ranks.py` - Exam rank + piscine exam fetcher (uses API + teams for per-attempt scores)
+- `exam_scrape.py` - HTML scraper for exam scores (legacy, for reference)
+- `api_client.py` - OAuth + pagination
 - `tracker.py` - Location polling (saves snapshots)
 - `models.py` - Data classes
 - `storage.py` - JSON helpers
