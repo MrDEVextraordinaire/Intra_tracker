@@ -133,7 +133,7 @@ def fetch_student_data(auth: TokenManager, student: dict) -> dict | None:
 
     exam_ranks: dict[str, list[dict]] = {}
     piscine_exams: dict[str, list[dict]] = {}
-    ranks_with_retries: dict[int, str] = {}  # projects_user_id -> rank_key
+    ranks_seen: dict[str, dict] = {}  # rank_key -> {pu_id -> proj data} to handle duplicates
 
     for proj in projects:
         slug = proj.get("project", {}).get("slug", "")
@@ -146,18 +146,14 @@ def fetch_student_data(auth: TokenManager, student: dict) -> dict | None:
         rank_key = normalize_rank_key(slug)
 
         if rank_key:
-            if rank_key not in exam_ranks:
-                exam_ranks[rank_key] = []
-            
-            if occurrence > 0:
-                ranks_with_retries[pu_id] = rank_key
-            
-            exam_ranks[rank_key].append({
+            if rank_key not in ranks_seen:
+                ranks_seen[rank_key] = {}
+            ranks_seen[rank_key][pu_id] = {
                 "occurrence": occurrence,
                 "date": date,
                 "score": final_mark if final_mark else 0,
                 "passed": passed,
-            })
+            }
 
         elif is_piscine_exam(slug):
             if slug not in piscine_exams:
@@ -168,19 +164,36 @@ def fetch_student_data(auth: TokenManager, student: dict) -> dict | None:
                 "passed": passed,
             })
 
-    for pu_id, rank_key in ranks_with_retries.items():
-        attempts = get_all_attempts(auth, pu_id)
-        if attempts:
+    for rank_key, pu_id_data in ranks_seen.items():
+        all_attempts: list[dict] = []
+
+        for pu_id, proj_data in pu_id_data.items():
+            if proj_data["occurrence"] > 0:
+                attempts = get_all_attempts(auth, pu_id)
+                if attempts:
+                    all_attempts.extend(attempts)
+                    log.debug(f"  {login} {rank_key} (pu_id={pu_id}): got {len(attempts)} attempts from teams API")
+            else:
+                all_attempts.append({
+                    "occurrence": proj_data["occurrence"],
+                    "date": proj_data["date"],
+                    "score": proj_data["score"],
+                    "passed": proj_data["passed"],
+                })
+
+        if all_attempts:
+            all_attempts_sorted = sorted(all_attempts, key=lambda x: x.get("date", ""))
+            all_attempts_filtered = [a for a in all_attempts_sorted if a.get("score") is not None]
             exam_ranks[rank_key] = [
                 {
-                    "occurrence": a.get("occurrence", i),
+                    "occurrence": i,
                     "date": a.get("date", ""),
                     "score": a.get("score", 0),
                     "passed": a.get("validated", False),
                 }
-                for i, a in enumerate(attempts)
+                for i, a in enumerate(all_attempts_filtered)
             ]
-            log.debug(f"  {login} {rank_key}: got {len(attempts)} attempts from teams API")
+            log.debug(f"  {login} {rank_key}: combined {len(all_attempts_filtered)} attempts")
 
     result = {
         "login": login,
@@ -188,7 +201,7 @@ def fetch_student_data(auth: TokenManager, student: dict) -> dict | None:
         "piscine_exams": piscine_exams,
     }
 
-    has_retries = len(ranks_with_retries) > 0
+    has_retries = any(a.get("occurrence", 0) > 0 for attempts in exam_ranks.values() for a in attempts)
     log.info(f"  {login}: {len(exam_ranks)} rank exams, {len(piscine_exams)} piscine exams"
            + (" (retries)" if has_retries else ""))
     return result

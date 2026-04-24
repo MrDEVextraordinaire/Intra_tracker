@@ -477,7 +477,7 @@ if __name__ == "__main__":
         df = build_df()
         print(f"[INIT] DataFrame: {df.shape[0]} users, {df.shape[1]} columns")
         print(f"Pool years: {df['pool_year'].value_counts().to_dict()}")
-        print(df[['user', 'pool_year', 'final_score']].head(20))
+        print(df[['pool_year', 'final_score']].head(20))
     else:
         print("[INIT] Loading data...")
         df = build_df()
@@ -524,74 +524,3 @@ if __name__ == "__main__":
         print(f"[INIT] Poll thread alive: {t.is_alive()}")
 
         input("\nPress Enter to stop...\n")
-
-
-# ─────────────────────────────────────────────────────────────────────────────
-# DTALE LAUNCH
-# ─────────────────────────────────────────────────────────────────────────────
-
-print("[INIT] Loading data...")
-df = build_df()
-print(f"[INIT] DataFrame: {df.shape[0]} users, {df.shape[1]} columns")
-
-dtale.global_state.set_app_settings({"enable_custom_filters": True})
-d = dtale.show(df, ignore_duplicate=True)
-
-print(f"[INIT] dtale id  : {d._data_id}")
-print(f"[INIT] URL       : {d._url}/dtale/main/{d._data_id}")
-
-
-# ─────────────────────────────────────────────────────────────────────────────
-# LIVE POLL THREAD
-# ─────────────────────────────────────────────────────────────────────────────
-
-def poll():
-    loop = 0
-    while True:
-        loop += 1
-        try:
-            with open(RESULTS_FILE) as f:
-                raw = json.load(f)
-
-            current_df  = d.data
-            known_users = (
-                set(current_df["user"].astype(str))
-                if "user" in current_df.columns
-                else set(current_df.index.astype(str))
-            )
-
-            new_logins = list(set(raw.keys()) - known_users)
-
-            if new_logins:
-                print(f"[POLL {loop}] New users detected: {new_logins}")
-                fragment = build_df(raw, new_logins)
-
-                curr = current_df.reset_index()
-                frag = fragment.reset_index()
-
-                stale = ["level_0", "index", "Unnamed: 0"]
-                curr.drop(columns=[c for c in stale if c in curr.columns], inplace=True)
-                frag.drop(columns=[c for c in stale if c in frag.columns], inplace=True)
-
-                updated = pd.concat([curr, frag], ignore_index=True, sort=False)
-                if "user" in updated.columns:
-                    updated = updated.set_index("user")
-                    updated = updated[~updated.index.duplicated(keep='last')]
-                updated.sort_values(
-                    "final_score", ascending=False, inplace=True, na_position="last"
-                )
-
-                d.data = updated
-                print(f"[POLL {loop}] Total users now: {d.data.shape[0]}")
-
-        except Exception as e:
-            print(f"[POLL {loop}] ERROR: {e}")
-
-        time.sleep(POLL_SECONDS)
-
-
-t = threading.Thread(target=poll, daemon=True)
-t.start()
-print(f"[INIT] Poll thread alive: {t.is_alive()}")
-
-input("\nPress Enter to stop...\n")

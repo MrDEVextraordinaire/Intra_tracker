@@ -10116,8 +10116,20 @@
         },
         {
           "occurrence": 1,
-          "date": "2025-12-30",
-          "score": null,
+          "date": "2025-12-24",
+          "score": 25,
+          "passed": true
+        },
+        {
+          "occurrence": 2,
+          "date": "2026-01-28",
+          "score": 75,
+          "passed": true
+        },
+        {
+          "occurrence": 3,
+          "date": "2026-02-18",
+          "score": 100,
           "passed": true
         }
       ]
