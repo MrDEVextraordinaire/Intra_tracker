@@ -23057,6 +23057,266 @@
         "host": "c3r9p4"
       },
       "_polled_at": "2026-04-24T08:58:11.697991+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38683790,
+      "begin_at": "2026-04-24T10:11:05.202Z",
+      "primary": true,
+      "host": "c3r9p4",
+      "campus_id": 75,
+      "user": {
+        "id": 237839,
+        "email": "adahadda@student.1337.ma",
+        "login": "adahadda",
+        "first_name": "Adam",
+        "last_name": "Haddad",
+        "usual_full_name": "Adam Haddad",
+        "usual_first_name": "Adam",
+        "url": "https://api.intra.42.fr/v2/users/adahadda",
+        "phone": "hidden",
+        "displayname": "Adam Haddad",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/50427480104ce361fac1aa350f98e22b/adahadda.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/edc4f38883fdd6ad9b2df8cbb4f2d3cf/large_adahadda.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/0684da6233c299eed6ee8c97eb24c5b2/medium_adahadda.jpeg",
+            "small": "https://cdn.intra.42.fr/users/b784abdd75402cea6486cb4c49d3a84c/small_adahadda.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/dd2a7f0d34745086ec510dacf4edb04d/micro_adahadda.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 7,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c3r9p4",
+        "wallet": 140,
+        "anonymize_date": "2029-04-23T00:00:00.000+01:00",
+        "data_erasure_date": "2029-04-23T00:00:00.000+01:00",
+        "created_at": "2025-08-11T10:57:50.167Z",
+        "updated_at": "2026-04-24T10:11:05.552Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 3,
+        "row": 9,
+        "position": 4,
+        "x": 4,
+        "y": 9,
+        "host": "c3r9p4"
+      },
+      "_polled_at": "2026-04-24T10:13:34.735951+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38686163,
+      "begin_at": "2026-04-24T12:48:05.284Z",
+      "primary": true,
+      "host": "c3r9p4",
+      "campus_id": 75,
+      "user": {
+        "id": 237839,
+        "email": "adahadda@student.1337.ma",
+        "login": "adahadda",
+        "first_name": "Adam",
+        "last_name": "Haddad",
+        "usual_full_name": "Adam Haddad",
+        "usual_first_name": "Adam",
+        "url": "https://api.intra.42.fr/v2/users/adahadda",
+        "phone": "hidden",
+        "displayname": "Adam Haddad",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/50427480104ce361fac1aa350f98e22b/adahadda.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/edc4f38883fdd6ad9b2df8cbb4f2d3cf/large_adahadda.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/0684da6233c299eed6ee8c97eb24c5b2/medium_adahadda.jpeg",
+            "small": "https://cdn.intra.42.fr/users/b784abdd75402cea6486cb4c49d3a84c/small_adahadda.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/dd2a7f0d34745086ec510dacf4edb04d/micro_adahadda.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 7,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c3r9p4",
+        "wallet": 140,
+        "anonymize_date": "2029-04-23T00:00:00.000+01:00",
+        "data_erasure_date": "2029-04-23T00:00:00.000+01:00",
+        "created_at": "2025-08-11T10:57:50.167Z",
+        "updated_at": "2026-04-24T12:48:06.692Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 3,
+        "row": 9,
+        "position": 4,
+        "x": 4,
+        "y": 9,
+        "host": "c3r9p4"
+      },
+      "_polled_at": "2026-04-24T12:59:19.988098+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38691172,
+      "begin_at": "2026-04-24T19:21:07.835Z",
+      "primary": true,
+      "host": "c3r9p2",
+      "campus_id": 75,
+      "user": {
+        "id": 237839,
+        "email": "adahadda@student.1337.ma",
+        "login": "adahadda",
+        "first_name": "Adam",
+        "last_name": "Haddad",
+        "usual_full_name": "Adam Haddad",
+        "usual_first_name": "Adam",
+        "url": "https://api.intra.42.fr/v2/users/adahadda",
+        "phone": "hidden",
+        "displayname": "Adam Haddad",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/50427480104ce361fac1aa350f98e22b/adahadda.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/edc4f38883fdd6ad9b2df8cbb4f2d3cf/large_adahadda.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/0684da6233c299eed6ee8c97eb24c5b2/medium_adahadda.jpeg",
+            "small": "https://cdn.intra.42.fr/users/b784abdd75402cea6486cb4c49d3a84c/small_adahadda.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/dd2a7f0d34745086ec510dacf4edb04d/micro_adahadda.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 7,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c3r9p2",
+        "wallet": 140,
+        "anonymize_date": "2029-04-23T00:00:00.000+01:00",
+        "data_erasure_date": "2029-04-23T00:00:00.000+01:00",
+        "created_at": "2025-08-11T10:57:50.167Z",
+        "updated_at": "2026-04-24T19:21:09.205Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 3,
+        "row": 9,
+        "position": 2,
+        "x": 2,
+        "y": 9,
+        "host": "c3r9p2"
+      },
+      "_polled_at": "2026-04-24T19:31:33.784589+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38692251,
+      "begin_at": "2026-04-24T22:51:07.914Z",
+      "primary": true,
+      "host": "c3r9p2",
+      "campus_id": 75,
+      "user": {
+        "id": 237839,
+        "email": "adahadda@student.1337.ma",
+        "login": "adahadda",
+        "first_name": "Adam",
+        "last_name": "Haddad",
+        "usual_full_name": "Adam Haddad",
+        "usual_first_name": "Adam",
+        "url": "https://api.intra.42.fr/v2/users/adahadda",
+        "phone": "hidden",
+        "displayname": "Adam Haddad",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/50427480104ce361fac1aa350f98e22b/adahadda.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/edc4f38883fdd6ad9b2df8cbb4f2d3cf/large_adahadda.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/0684da6233c299eed6ee8c97eb24c5b2/medium_adahadda.jpeg",
+            "small": "https://cdn.intra.42.fr/users/b784abdd75402cea6486cb4c49d3a84c/small_adahadda.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/dd2a7f0d34745086ec510dacf4edb04d/micro_adahadda.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 7,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c3r9p2",
+        "wallet": 140,
+        "anonymize_date": "2029-04-24T00:00:00.000+01:00",
+        "data_erasure_date": "2029-04-24T00:00:00.000+01:00",
+        "created_at": "2025-08-11T10:57:50.167Z",
+        "updated_at": "2026-04-24T22:51:08.259Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 3,
+        "row": 9,
+        "position": 2,
+        "x": 2,
+        "y": 9,
+        "host": "c3r9p2"
+      },
+      "_polled_at": "2026-04-24T23:02:17.556384+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38692369,
+      "begin_at": "2026-04-24T23:37:08.003Z",
+      "primary": true,
+      "host": "c3r9p3",
+      "campus_id": 75,
+      "user": {
+        "id": 237839,
+        "email": "adahadda@student.1337.ma",
+        "login": "adahadda",
+        "first_name": "Adam",
+        "last_name": "Haddad",
+        "usual_full_name": "Adam Haddad",
+        "usual_first_name": "Adam",
+        "url": "https://api.intra.42.fr/v2/users/adahadda",
+        "phone": "hidden",
+        "displayname": "Adam Haddad",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/50427480104ce361fac1aa350f98e22b/adahadda.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/edc4f38883fdd6ad9b2df8cbb4f2d3cf/large_adahadda.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/0684da6233c299eed6ee8c97eb24c5b2/medium_adahadda.jpeg",
+            "small": "https://cdn.intra.42.fr/users/b784abdd75402cea6486cb4c49d3a84c/small_adahadda.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/dd2a7f0d34745086ec510dacf4edb04d/micro_adahadda.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 7,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c3r9p3",
+        "wallet": 140,
+        "anonymize_date": "2029-04-24T00:00:00.000+01:00",
+        "data_erasure_date": "2029-04-24T00:00:00.000+01:00",
+        "created_at": "2025-08-11T10:57:50.167Z",
+        "updated_at": "2026-04-24T23:37:08.340Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 3,
+        "row": 9,
+        "position": 3,
+        "x": 3,
+        "y": 9,
+        "host": "c3r9p3"
+      },
+      "_polled_at": "2026-04-24T23:47:22.660406+00:00"
     }
   ]
 }
