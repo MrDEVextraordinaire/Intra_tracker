@@ -21467,6 +21467,58 @@
         "host": "c2r1p10"
       },
       "_polled_at": "2026-04-30T17:37:02.026940+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38765913,
+      "begin_at": "2026-04-30T20:17:04.532Z",
+      "primary": true,
+      "host": "c2r1p10",
+      "campus_id": 75,
+      "user": {
+        "id": 237450,
+        "email": "chamchic@student.1337.ma",
+        "login": "chamchic",
+        "first_name": "Chemseddine",
+        "last_name": "Amchich",
+        "usual_full_name": "Chemseddine Amchich",
+        "usual_first_name": "Chemseddine",
+        "url": "https://api.intra.42.fr/v2/users/chamchic",
+        "phone": "hidden",
+        "displayname": "Chemseddine Amchich",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/d3c36c2024e74012e2962601c3586d7e/chamchic.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/f800fde7878125e0e409c34ba97a9b21/large_chamchic.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/3bdbad3068ced9eea028e39a5448cd7a/medium_chamchic.jpeg",
+            "small": "https://cdn.intra.42.fr/users/d30f0d6e8c4f6d651258c853befb2ea5/small_chamchic.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/cb122c34f309a1067e1618822137c033/micro_chamchic.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 14,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c2r1p10",
+        "wallet": 140,
+        "anonymize_date": "2029-04-30T00:00:00.000+01:00",
+        "data_erasure_date": "2029-04-30T00:00:00.000+01:00",
+        "created_at": "2025-08-08T12:44:24.082Z",
+        "updated_at": "2026-04-30T20:17:04.912Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 2,
+        "row": 1,
+        "position": 10,
+        "x": 10,
+        "y": 1,
+        "host": "c2r1p10"
+      },
+      "_polled_at": "2026-04-30T20:22:56.125814+00:00"
     }
   ]
 }
