@@ -1,7 +1,9 @@
 {
-  "last_poll": "2026-04-30T23:08:35.287817+00:00",
-  "active_count": 47,
+  "last_poll": "2026-04-30T23:23:42.658650+00:00",
+  "active_count": 44,
   "active_logins": [
+    "gomar",
+    "maboulai",
     "elel-m-b",
     "oobbad",
     "yezzemry",
@@ -20,19 +22,15 @@
     "mjabri",
     "chabourk",
     "niboutta",
-    "maboulai",
     "ael-bala",
     "onaanaa",
-    "anlibrin",
     "mhend",
     "lasoubai",
     "oerrami",
     "aeddiba",
-    "nkasimi",
     "mbounoui",
     "mait-oub",
     "aryahi",
-    "abentabe",
     "ikabboud",
     "ottalhao",
     "obakri",
@@ -47,7 +45,6 @@
     "rsbaa",
     "blemrabe",
     "mbidlal",
-    "yaboumei",
-    "hidsaid"
+    "yaboumei"
   ]
 }
