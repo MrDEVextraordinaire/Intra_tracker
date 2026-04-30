@@ -20947,6 +20947,474 @@
         "host": "c1r2p10"
       },
       "_polled_at": "2026-04-24T23:32:20.843648+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38748185,
+      "begin_at": "2026-04-29T14:35:08.875Z",
+      "primary": true,
+      "host": "c1r2p10",
+      "campus_id": 75,
+      "user": {
+        "id": 237450,
+        "email": "chamchic@student.1337.ma",
+        "login": "chamchic",
+        "first_name": "Chemseddine",
+        "last_name": "Amchich",
+        "usual_full_name": "Chemseddine Amchich",
+        "usual_first_name": "Chemseddine",
+        "url": "https://api.intra.42.fr/v2/users/chamchic",
+        "phone": "hidden",
+        "displayname": "Chemseddine Amchich",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/d3c36c2024e74012e2962601c3586d7e/chamchic.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/f800fde7878125e0e409c34ba97a9b21/large_chamchic.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/3bdbad3068ced9eea028e39a5448cd7a/medium_chamchic.jpeg",
+            "small": "https://cdn.intra.42.fr/users/d30f0d6e8c4f6d651258c853befb2ea5/small_chamchic.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/cb122c34f309a1067e1618822137c033/micro_chamchic.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 14,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c1r2p10",
+        "wallet": 140,
+        "anonymize_date": "2029-04-28T00:00:00.000+01:00",
+        "data_erasure_date": "2029-04-28T00:00:00.000+01:00",
+        "created_at": "2025-08-08T12:44:24.082Z",
+        "updated_at": "2026-04-29T14:35:09.229Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 1,
+        "row": 2,
+        "position": 10,
+        "x": 10,
+        "y": 2,
+        "host": "c1r2p10"
+      },
+      "_polled_at": "2026-04-29T14:41:54.928365+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38748923,
+      "begin_at": "2026-04-29T15:25:07.281Z",
+      "primary": true,
+      "host": "c2r1p8",
+      "campus_id": 75,
+      "user": {
+        "id": 237450,
+        "email": "chamchic@student.1337.ma",
+        "login": "chamchic",
+        "first_name": "Chemseddine",
+        "last_name": "Amchich",
+        "usual_full_name": "Chemseddine Amchich",
+        "usual_first_name": "Chemseddine",
+        "url": "https://api.intra.42.fr/v2/users/chamchic",
+        "phone": "hidden",
+        "displayname": "Chemseddine Amchich",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/d3c36c2024e74012e2962601c3586d7e/chamchic.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/f800fde7878125e0e409c34ba97a9b21/large_chamchic.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/3bdbad3068ced9eea028e39a5448cd7a/medium_chamchic.jpeg",
+            "small": "https://cdn.intra.42.fr/users/d30f0d6e8c4f6d651258c853befb2ea5/small_chamchic.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/cb122c34f309a1067e1618822137c033/micro_chamchic.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 14,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c2r1p8",
+        "wallet": 140,
+        "anonymize_date": "2029-04-28T00:00:00.000+01:00",
+        "data_erasure_date": "2029-04-28T00:00:00.000+01:00",
+        "created_at": "2025-08-08T12:44:24.082Z",
+        "updated_at": "2026-04-29T15:25:07.936Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 2,
+        "row": 1,
+        "position": 8,
+        "x": 8,
+        "y": 1,
+        "host": "c2r1p8"
+      },
+      "_polled_at": "2026-04-29T15:27:10.271561+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38751249,
+      "begin_at": "2026-04-29T18:47:07.388Z",
+      "primary": true,
+      "host": "c2r1p8",
+      "campus_id": 75,
+      "user": {
+        "id": 237450,
+        "email": "chamchic@student.1337.ma",
+        "login": "chamchic",
+        "first_name": "Chemseddine",
+        "last_name": "Amchich",
+        "usual_full_name": "Chemseddine Amchich",
+        "usual_first_name": "Chemseddine",
+        "url": "https://api.intra.42.fr/v2/users/chamchic",
+        "phone": "hidden",
+        "displayname": "Chemseddine Amchich",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/d3c36c2024e74012e2962601c3586d7e/chamchic.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/f800fde7878125e0e409c34ba97a9b21/large_chamchic.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/3bdbad3068ced9eea028e39a5448cd7a/medium_chamchic.jpeg",
+            "small": "https://cdn.intra.42.fr/users/d30f0d6e8c4f6d651258c853befb2ea5/small_chamchic.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/cb122c34f309a1067e1618822137c033/micro_chamchic.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 14,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c2r1p8",
+        "wallet": 140,
+        "anonymize_date": "2029-04-29T00:00:00.000+01:00",
+        "data_erasure_date": "2029-04-29T00:00:00.000+01:00",
+        "created_at": "2025-08-08T12:44:24.082Z",
+        "updated_at": "2026-04-29T18:47:07.807Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 2,
+        "row": 1,
+        "position": 8,
+        "x": 8,
+        "y": 1,
+        "host": "c2r1p8"
+      },
+      "_polled_at": "2026-04-29T19:16:00.684981+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38753011,
+      "begin_at": "2026-04-30T00:38:08.047Z",
+      "primary": true,
+      "host": "c1r2p10",
+      "campus_id": 75,
+      "user": {
+        "id": 237450,
+        "email": "chamchic@student.1337.ma",
+        "login": "chamchic",
+        "first_name": "Chemseddine",
+        "last_name": "Amchich",
+        "usual_full_name": "Chemseddine Amchich",
+        "usual_first_name": "Chemseddine",
+        "url": "https://api.intra.42.fr/v2/users/chamchic",
+        "phone": "hidden",
+        "displayname": "Chemseddine Amchich",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/d3c36c2024e74012e2962601c3586d7e/chamchic.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/f800fde7878125e0e409c34ba97a9b21/large_chamchic.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/3bdbad3068ced9eea028e39a5448cd7a/medium_chamchic.jpeg",
+            "small": "https://cdn.intra.42.fr/users/d30f0d6e8c4f6d651258c853befb2ea5/small_chamchic.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/cb122c34f309a1067e1618822137c033/micro_chamchic.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 14,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c1r2p10",
+        "wallet": 140,
+        "anonymize_date": "2029-04-29T00:00:00.000+01:00",
+        "data_erasure_date": "2029-04-29T00:00:00.000+01:00",
+        "created_at": "2025-08-08T12:44:24.082Z",
+        "updated_at": "2026-04-30T00:38:09.774Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 1,
+        "row": 2,
+        "position": 10,
+        "x": 10,
+        "y": 2,
+        "host": "c1r2p10"
+      },
+      "_polled_at": "2026-04-30T00:47:47.514949+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38753231,
+      "begin_at": "2026-04-30T02:19:10.374Z",
+      "primary": true,
+      "host": "c1r2p10",
+      "campus_id": 75,
+      "user": {
+        "id": 237450,
+        "email": "chamchic@student.1337.ma",
+        "login": "chamchic",
+        "first_name": "Chemseddine",
+        "last_name": "Amchich",
+        "usual_full_name": "Chemseddine Amchich",
+        "usual_first_name": "Chemseddine",
+        "url": "https://api.intra.42.fr/v2/users/chamchic",
+        "phone": "hidden",
+        "displayname": "Chemseddine Amchich",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/d3c36c2024e74012e2962601c3586d7e/chamchic.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/f800fde7878125e0e409c34ba97a9b21/large_chamchic.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/3bdbad3068ced9eea028e39a5448cd7a/medium_chamchic.jpeg",
+            "small": "https://cdn.intra.42.fr/users/d30f0d6e8c4f6d651258c853befb2ea5/small_chamchic.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/cb122c34f309a1067e1618822137c033/micro_chamchic.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 14,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c1r2p10",
+        "wallet": 140,
+        "anonymize_date": "2029-04-29T00:00:00.000+01:00",
+        "data_erasure_date": "2029-04-29T00:00:00.000+01:00",
+        "created_at": "2025-08-08T12:44:24.082Z",
+        "updated_at": "2026-04-30T02:19:10.723Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 1,
+        "row": 2,
+        "position": 10,
+        "x": 10,
+        "y": 2,
+        "host": "c1r2p10"
+      },
+      "_polled_at": "2026-04-30T02:32:59.433862+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38754039,
+      "begin_at": "2026-04-30T06:12:09.593Z",
+      "primary": true,
+      "host": "c1r2p10",
+      "campus_id": 75,
+      "user": {
+        "id": 237450,
+        "email": "chamchic@student.1337.ma",
+        "login": "chamchic",
+        "first_name": "Chemseddine",
+        "last_name": "Amchich",
+        "usual_full_name": "Chemseddine Amchich",
+        "usual_first_name": "Chemseddine",
+        "url": "https://api.intra.42.fr/v2/users/chamchic",
+        "phone": "hidden",
+        "displayname": "Chemseddine Amchich",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/d3c36c2024e74012e2962601c3586d7e/chamchic.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/f800fde7878125e0e409c34ba97a9b21/large_chamchic.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/3bdbad3068ced9eea028e39a5448cd7a/medium_chamchic.jpeg",
+            "small": "https://cdn.intra.42.fr/users/d30f0d6e8c4f6d651258c853befb2ea5/small_chamchic.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/cb122c34f309a1067e1618822137c033/micro_chamchic.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 14,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c1r2p10",
+        "wallet": 140,
+        "anonymize_date": "2029-04-30T00:00:00.000+01:00",
+        "data_erasure_date": "2029-04-30T00:00:00.000+01:00",
+        "created_at": "2025-08-08T12:44:24.082Z",
+        "updated_at": "2026-04-30T06:12:10.412Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 1,
+        "row": 2,
+        "position": 10,
+        "x": 10,
+        "y": 2,
+        "host": "c1r2p10"
+      },
+      "_polled_at": "2026-04-30T06:19:20.882515+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38754598,
+      "begin_at": "2026-04-30T07:18:07.482Z",
+      "primary": true,
+      "host": "c1r2p10",
+      "campus_id": 75,
+      "user": {
+        "id": 237450,
+        "email": "chamchic@student.1337.ma",
+        "login": "chamchic",
+        "first_name": "Chemseddine",
+        "last_name": "Amchich",
+        "usual_full_name": "Chemseddine Amchich",
+        "usual_first_name": "Chemseddine",
+        "url": "https://api.intra.42.fr/v2/users/chamchic",
+        "phone": "hidden",
+        "displayname": "Chemseddine Amchich",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/d3c36c2024e74012e2962601c3586d7e/chamchic.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/f800fde7878125e0e409c34ba97a9b21/large_chamchic.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/3bdbad3068ced9eea028e39a5448cd7a/medium_chamchic.jpeg",
+            "small": "https://cdn.intra.42.fr/users/d30f0d6e8c4f6d651258c853befb2ea5/small_chamchic.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/cb122c34f309a1067e1618822137c033/micro_chamchic.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 14,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c1r2p10",
+        "wallet": 140,
+        "anonymize_date": "2029-04-30T00:00:00.000+01:00",
+        "data_erasure_date": "2029-04-30T00:00:00.000+01:00",
+        "created_at": "2025-08-08T12:44:24.082Z",
+        "updated_at": "2026-04-30T07:18:08.866Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 1,
+        "row": 2,
+        "position": 10,
+        "x": 10,
+        "y": 2,
+        "host": "c1r2p10"
+      },
+      "_polled_at": "2026-04-30T07:19:29.363537+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38755797,
+      "begin_at": "2026-04-30T08:33:06.013Z",
+      "primary": true,
+      "host": "c2r1p14",
+      "campus_id": 75,
+      "user": {
+        "id": 237450,
+        "email": "chamchic@student.1337.ma",
+        "login": "chamchic",
+        "first_name": "Chemseddine",
+        "last_name": "Amchich",
+        "usual_full_name": "Chemseddine Amchich",
+        "usual_first_name": "Chemseddine",
+        "url": "https://api.intra.42.fr/v2/users/chamchic",
+        "phone": "hidden",
+        "displayname": "Chemseddine Amchich",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/d3c36c2024e74012e2962601c3586d7e/chamchic.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/f800fde7878125e0e409c34ba97a9b21/large_chamchic.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/3bdbad3068ced9eea028e39a5448cd7a/medium_chamchic.jpeg",
+            "small": "https://cdn.intra.42.fr/users/d30f0d6e8c4f6d651258c853befb2ea5/small_chamchic.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/cb122c34f309a1067e1618822137c033/micro_chamchic.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 14,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c2r1p14",
+        "wallet": 140,
+        "anonymize_date": "2029-04-30T00:00:00.000+01:00",
+        "data_erasure_date": "2029-04-30T00:00:00.000+01:00",
+        "created_at": "2025-08-08T12:44:24.082Z",
+        "updated_at": "2026-04-30T08:33:09.000Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 2,
+        "row": 1,
+        "position": 14,
+        "x": 14,
+        "y": 1,
+        "host": "c2r1p14"
+      },
+      "_polled_at": "2026-04-30T08:34:47.220164+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38756308,
+      "begin_at": "2026-04-30T09:04:05.934Z",
+      "primary": true,
+      "host": "c2r1p14",
+      "campus_id": 75,
+      "user": {
+        "id": 237450,
+        "email": "chamchic@student.1337.ma",
+        "login": "chamchic",
+        "first_name": "Chemseddine",
+        "last_name": "Amchich",
+        "usual_full_name": "Chemseddine Amchich",
+        "usual_first_name": "Chemseddine",
+        "url": "https://api.intra.42.fr/v2/users/chamchic",
+        "phone": "hidden",
+        "displayname": "Chemseddine Amchich",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/d3c36c2024e74012e2962601c3586d7e/chamchic.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/f800fde7878125e0e409c34ba97a9b21/large_chamchic.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/3bdbad3068ced9eea028e39a5448cd7a/medium_chamchic.jpeg",
+            "small": "https://cdn.intra.42.fr/users/d30f0d6e8c4f6d651258c853befb2ea5/small_chamchic.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/cb122c34f309a1067e1618822137c033/micro_chamchic.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 14,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c2r1p14",
+        "wallet": 140,
+        "anonymize_date": "2029-04-30T00:00:00.000+01:00",
+        "data_erasure_date": "2029-04-30T00:00:00.000+01:00",
+        "created_at": "2025-08-08T12:44:24.082Z",
+        "updated_at": "2026-04-30T09:04:07.739Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 2,
+        "row": 1,
+        "position": 14,
+        "x": 14,
+        "y": 1,
+        "host": "c2r1p14"
+      },
+      "_polled_at": "2026-04-30T09:04:52.596090+00:00"
     }
   ]
 }
