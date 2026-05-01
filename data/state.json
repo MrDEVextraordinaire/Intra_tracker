@@ -1,7 +1,11 @@
 {
-  "last_poll": "2026-05-01T23:14:54.732521+00:00",
-  "active_count": 52,
+  "last_poll": "2026-05-01T23:29:57.738847+00:00",
+  "active_count": 47,
   "active_logins": [
+    "mtarza",
+    "yel-azim",
+    "nel-ouad",
+    "elel-m-b",
     "ayfadli",
     "mtawil",
     "yatanagh",
@@ -15,15 +19,10 @@
     "yrabhi",
     "berrabia",
     "mrouissy",
-    "falamlih",
-    "oel-azzo",
     "yael-kha",
     "ztafjout",
     "azel-mah",
-    "nikarama",
-    "anlibrin",
     "oissfoul",
-    "sohamdan",
     "houardi",
     "elhamza",
     "zboualam",
@@ -36,7 +35,6 @@
     "haallaou",
     "brouane",
     "zael-ghm",
-    "elel-m-b",
     "mbounoui",
     "yel-arib",
     "aeddiba",
@@ -49,10 +47,7 @@
     "sboudcha",
     "sbelabbe",
     "kemzouri",
-    "nel-khol",
-    "mait-oub",
     "onaanaa",
-    "hidsaid",
-    "anbenaay"
+    "hidsaid"
   ]
 }
