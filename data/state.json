@@ -1,7 +1,8 @@
 {
-  "last_poll": "2026-05-01T10:41:31.992911+00:00",
-  "active_count": 83,
+  "last_poll": "2026-05-01T10:56:37.733356+00:00",
+  "active_count": 79,
   "active_logins": [
+    "h-el-ahr",
     "olachhab",
     "ilhannou",
     "iel-arou",
@@ -10,9 +11,7 @@
     "moirhira",
     "zouazrou",
     "manzar",
-    "oel-jrao",
     "iazzouzi",
-    "fbenjama",
     "aait-ahm",
     "iboujdad",
     "yezzemry",
@@ -39,7 +38,6 @@
     "mjabri",
     "smahraz",
     "maboulai",
-    "yel-bakk",
     "wazadou",
     "sel-maaq",
     "smoustaj",
@@ -82,8 +80,6 @@
     "delminia",
     "habdella",
     "yjaafar",
-    "zaben-da",
-    "achahi",
-    "jamourgh"
+    "achahi"
   ]
 }
