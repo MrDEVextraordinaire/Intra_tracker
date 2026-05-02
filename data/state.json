@@ -1,24 +1,20 @@
 {
-  "last_poll": "2026-05-02T06:32:31.327112+00:00",
-  "active_count": 18,
+  "last_poll": "2026-05-02T06:47:36.247786+00:00",
+  "active_count": 14,
   "active_logins": [
+    "habdella",
+    "sksioui",
+    "zaben-da",
+    "jamourgh",
     "bzari",
     "oabderra",
     "aghafir",
-    "adahab",
-    "snait-ai",
     "zakel-kh",
     "abismail",
-    "elhamza",
     "abentabe",
     "eanjar",
-    "mdamouh",
     "maddame",
-    "zaben-da",
     "mouahman",
-    "abmoudni",
-    "masbane",
-    "ztafjout",
-    "mtarza"
+    "ztafjout"
   ]
 }
