@@ -51135,6 +51135,58 @@
         "host": "c2r1p10"
       },
       "_polled_at": "2026-05-03T08:54:50.476050+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38792878,
+      "begin_at": "2026-05-04T07:44:02.197Z",
+      "primary": true,
+      "host": "c2r1p10",
+      "campus_id": 75,
+      "user": {
+        "id": 237441,
+        "email": "ybajdou@student.1337.ma",
+        "login": "ybajdou",
+        "first_name": "Yassine",
+        "last_name": "Bajdou",
+        "usual_full_name": "Yassine Bajdou",
+        "usual_first_name": "Yassine",
+        "url": "https://api.intra.42.fr/v2/users/ybajdou",
+        "phone": "hidden",
+        "displayname": "Yassine Bajdou",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/5bc0c45898b270178489baca5d628fb7/ybajdou.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/81b3056fb08ea3b09f21251ed23fe624/large_ybajdou.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/19056fe388ff679b80f11e0ad307de68/medium_ybajdou.jpeg",
+            "small": "https://cdn.intra.42.fr/users/c93206b71ebac4da91cb9a3c03cf61f8/small_ybajdou.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/65d92dbd875a2c76362ad8b493e03e45/micro_ybajdou.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 16,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c2r1p10",
+        "wallet": 145,
+        "anonymize_date": "2029-05-03T00:00:00.000+01:00",
+        "data_erasure_date": "2029-05-03T00:00:00.000+01:00",
+        "created_at": "2025-08-08T12:17:03.656Z",
+        "updated_at": "2026-05-04T07:44:04.687Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 2,
+        "row": 1,
+        "position": 10,
+        "x": 10,
+        "y": 1,
+        "host": "c2r1p10"
+      },
+      "_polled_at": "2026-05-04T07:45:41.025893+00:00"
     }
   ]
 }
