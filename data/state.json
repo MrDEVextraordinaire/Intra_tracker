@@ -1,7 +1,11 @@
 {
-  "last_poll": "2026-05-03T23:43:39.818815+00:00",
-  "active_count": 44,
+  "last_poll": "2026-05-03T23:58:42.078739+00:00",
+  "active_count": 42,
   "active_logins": [
+    "hryahi",
+    "edagdagu",
+    "mokoubar",
+    "mochihab",
     "yanait-e",
     "hlaaz",
     "chabourk",
@@ -10,10 +14,7 @@
     "aarid",
     "ybaddi",
     "yramouch",
-    "hryahi",
-    "mjaber",
     "abdait-s",
-    "abafahmi",
     "kraghib",
     "rsbaa",
     "ztafjout",
@@ -21,7 +22,6 @@
     "sasaidi",
     "ychabane",
     "azel-mah",
-    "bmarbouh",
     "itemlali",
     "aakourya",
     "mait-oub",
@@ -33,7 +33,6 @@
     "zel-alao",
     "ottalhao",
     "bamdjar",
-    "mochajou",
     "hrabh",
     "berrabia",
     "momokhli",
@@ -44,7 +43,6 @@
     "sbelabbe",
     "zakel-kh",
     "hamaarab",
-    "yael-kha",
-    "hounejja"
+    "yael-kha"
   ]
 }
