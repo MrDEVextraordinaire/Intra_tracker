@@ -1,7 +1,11 @@
 {
-  "last_poll": "2026-05-05T22:15:02.065084+00:00",
-  "active_count": 68,
+  "last_poll": "2026-05-05T22:30:07.503904+00:00",
+  "active_count": 67,
   "active_logins": [
+    "fbenjama",
+    "adzahrao",
+    "mel-hafi",
+    "anlibrin",
     "zel-alao",
     "yramouch",
     "mbouyi",
@@ -15,8 +19,6 @@
     "hamaarab",
     "chabourk",
     "abenkrar",
-    "mel-houa",
-    "ylaarare",
     "ychabane",
     "aait-ela",
     "ibaya",
@@ -27,7 +29,6 @@
     "aait-laf",
     "ael-biss",
     "ohariss",
-    "rhssayn",
     "ibel-lot",
     "nel-ouad",
     "snaimi",
@@ -58,7 +59,6 @@
     "ottalhao",
     "yabyaa",
     "hbousset",
-    "yel-mota",
     "onaanaa",
     "nkasimi",
     "mbrouk",
@@ -68,7 +68,6 @@
     "ancheab",
     "abait-el",
     "hrabh",
-    "anlibrin",
     "nafarid"
   ]
 }
