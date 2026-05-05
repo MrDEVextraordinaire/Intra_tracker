@@ -1,7 +1,14 @@
 {
-  "last_poll": "2026-05-05T04:38:24.912618+00:00",
-  "active_count": 19,
+  "last_poll": "2026-05-05T04:53:31.784973+00:00",
+  "active_count": 22,
   "active_logins": [
+    "mrbib",
+    "aelhadja",
+    "jamourgh",
+    "rkadri",
+    "zaben-da",
+    "eanjar",
+    "msbayihi",
     "maddame",
     "berrabia",
     "eanass",
@@ -11,15 +18,11 @@
     "slaissam",
     "hounejja",
     "ahamou-t",
-    "oel-azzo",
     "mouahman",
-    "iel-arou",
     "zael-ghm",
-    "yramouch",
     "zasoulai",
     "ibaya",
     "mbidlal",
-    "yabarhda",
-    "tsellak"
+    "yabarhda"
   ]
 }
