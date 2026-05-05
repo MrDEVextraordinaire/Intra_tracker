@@ -1,9 +1,11 @@
 {
-  "last_poll": "2026-05-05T01:52:48.308545+00:00",
+  "last_poll": "2026-05-05T02:07:54.048950+00:00",
   "active_count": 25,
   "active_logins": [
+    "mjabri",
+    "oel-azzo",
+    "mouahman",
     "mmenniou",
-    "jait-chd",
     "iel-arou",
     "obakri",
     "hamaarab",
@@ -21,11 +23,9 @@
     "ychabane",
     "houardi",
     "aelarous",
-    "hounejja",
     "mbidlal",
     "itemlali",
     "yabarhda",
-    "tsellak",
-    "ybouryal"
+    "tsellak"
   ]
 }
