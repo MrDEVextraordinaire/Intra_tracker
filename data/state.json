@@ -1,7 +1,17 @@
 {
-  "last_poll": "2026-05-05T07:09:16.993547+00:00",
-  "active_count": 26,
+  "last_poll": "2026-05-05T07:24:22.973585+00:00",
+  "active_count": 34,
   "active_logins": [
+    "jait-chd",
+    "delminia",
+    "sel-bech",
+    "kemzouri",
+    "ibouzina",
+    "mbouskha",
+    "asoufian",
+    "sohamdan",
+    "moraouf",
+    "aezzirar",
     "moel-hib",
     "blidriss",
     "jamourgh",
@@ -17,7 +27,6 @@
     "zaben-da",
     "oel-azzo",
     "smakkass",
-    "wkerdad",
     "sksioui",
     "mzougari",
     "ylaarare",
@@ -26,7 +35,6 @@
     "ahoummad",
     "eanjar",
     "aelmanso",
-    "maddame",
     "yabarhda"
   ]
 }
