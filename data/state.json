@@ -1,7 +1,10 @@
 {
-  "last_poll": "2026-05-06T05:18:02.624805+00:00",
-  "active_count": 31,
+  "last_poll": "2026-05-06T05:33:03.864742+00:00",
+  "active_count": 30,
   "active_logins": [
+    "ahamou-t",
+    "moouhida",
+    "houardi",
     "mtarza",
     "eanjar",
     "sfaouzi",
@@ -14,7 +17,6 @@
     "mzougari",
     "abentabe",
     "ael-biss",
-    "rkadri",
     "aelhadja",
     "zaben-da",
     "jamourgh",
@@ -23,15 +25,12 @@
     "zael-ghm",
     "yramouch",
     "yrabhi",
-    "slaissam",
-    "ahamou-t",
     "mouahman",
     "aazounda",
     "ibaya",
     "ybelghad",
     "shrimech",
     "ahoummad",
-    "yanait-e",
     "hbousset"
   ]
 }
