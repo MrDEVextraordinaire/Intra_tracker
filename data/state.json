@@ -1,7 +1,8 @@
 {
-  "last_poll": "2026-05-05T23:30:27.365883+00:00",
-  "active_count": 50,
+  "last_poll": "2026-05-05T23:45:34.055997+00:00",
+  "active_count": 46,
   "active_logins": [
+    "houardi",
     "bamdjar",
     "mlakhal",
     "yjabrane",
@@ -9,7 +10,6 @@
     "ahamou-t",
     "aelarous",
     "ahoummad",
-    "a-khairi",
     "mchati",
     "mmenniou",
     "obakri",
@@ -17,7 +17,6 @@
     "mlakhlil",
     "mbouyi",
     "yanait-e",
-    "houardi",
     "aregragu",
     "anlibrin",
     "zel-alao",
@@ -42,15 +41,12 @@
     "zael-ghm",
     "ilhannou",
     "kel-mous",
-    "rsbaa",
     "sel-maaq",
     "yabarhda",
     "hbousset",
     "onaanaa",
     "mbrouk",
     "itemlali",
-    "ancheab",
-    "abait-el",
     "hrabh"
   ]
 }
