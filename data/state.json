@@ -1,7 +1,10 @@
 {
-  "last_poll": "2026-05-07T06:58:41.419767+00:00",
-  "active_count": 28,
+  "last_poll": "2026-05-07T07:13:46.055884+00:00",
+  "active_count": 27,
   "active_logins": [
+    "ibouzina",
+    "mbouskha",
+    "yel-alja",
     "sksioui",
     "smahraz",
     "zaben-da",
@@ -18,8 +21,6 @@
     "ybajdou",
     "ztafjout",
     "mzougari",
-    "abousfih",
-    "tmousnia",
     "sel-hime",
     "zasoulai",
     "yel-bouz",
@@ -27,8 +28,6 @@
     "eanjar",
     "hounejja",
     "jamourgh",
-    "slaissam",
-    "adahab",
     "eanass"
   ]
 }
