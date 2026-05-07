@@ -1,7 +1,8 @@
 {
-  "last_poll": "2026-05-06T23:40:53.696755+00:00",
-  "active_count": 34,
+  "last_poll": "2026-05-06T23:55:57.572882+00:00",
+  "active_count": 27,
   "active_logins": [
+    "mjaber",
     "aait-laf",
     "abmoudni",
     "itemlali",
@@ -9,19 +10,14 @@
     "oel-jrao",
     "elhamza",
     "yjabrane",
-    "bzari",
     "slaissam",
     "ahamou-t",
-    "aazounda",
-    "elel-m-b",
     "ahoummad",
     "abdait-s",
-    "ikabboud",
     "adahab",
     "mabdelha",
     "blemrabe",
     "hamaarab",
-    "bamdjar",
     "sohamdan",
     "aelarous",
     "ael-biss",
@@ -31,10 +27,7 @@
     "mbrouk",
     "eanass",
     "sel-maaq",
-    "haallaou",
     "onaanaa",
-    "jabouhni",
-    "hqannouc",
-    "abait-el"
+    "hqannouc"
   ]
 }
