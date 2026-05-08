@@ -1,7 +1,8 @@
 {
-  "last_poll": "2026-05-08T03:38:34.052929+00:00",
-  "active_count": 14,
+  "last_poll": "2026-05-08T03:53:40.387053+00:00",
+  "active_count": 13,
   "active_logins": [
+    "yramouch",
     "mouahman",
     "eanass",
     "mhend",
@@ -13,8 +14,6 @@
     "ahoummad",
     "elhamza",
     "mlakhlil",
-    "ychabane",
-    "itemlali",
-    "ztafjout"
+    "itemlali"
   ]
 }
