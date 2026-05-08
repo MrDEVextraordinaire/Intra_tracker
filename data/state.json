@@ -1,14 +1,14 @@
 {
-  "last_poll": "2026-05-08T01:07:36.073414+00:00",
-  "active_count": 23,
+  "last_poll": "2026-05-08T01:22:42.191108+00:00",
+  "active_count": 21,
   "active_logins": [
+    "ibaya",
+    "mmenniou",
     "berrabia",
     "aazounda",
     "kmarjij",
     "ahoummad",
     "elhamza",
-    "yjaafar",
-    "wabdi",
     "blemrabe",
     "mlakhlil",
     "abdait-s",
@@ -19,11 +19,9 @@
     "mjabri",
     "ychabane",
     "mchati",
-    "ibel-lot",
     "eanjar",
     "itemlali",
     "azel-mah",
-    "ztafjout",
-    "mjaber"
+    "ztafjout"
   ]
 }
