@@ -1,7 +1,9 @@
 {
-  "last_poll": "2026-05-08T07:10:32.845895+00:00",
-  "active_count": 23,
+  "last_poll": "2026-05-08T07:25:39.952647+00:00",
+  "active_count": 19,
   "active_logins": [
+    "mait-mou",
+    "azirari",
     "yjaafar",
     "abraji",
     "achahi",
@@ -10,20 +12,14 @@
     "yelgoumr",
     "hrabh",
     "smakkass",
-    "mokatfi",
     "yel-bouz",
     "habdella",
-    "klamachi",
     "yhachimi",
     "zakel-kh",
     "aedarkao",
-    "tmousnia",
-    "slaissam",
-    "ahamou-t",
     "baharrou",
     "jamourgh",
     "mzougari",
-    "berrabia",
-    "ahoummad"
+    "berrabia"
   ]
 }
