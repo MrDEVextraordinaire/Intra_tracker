@@ -1,14 +1,21 @@
 {
-  "last_poll": "2026-05-08T07:25:39.952647+00:00",
-  "active_count": 19,
+  "last_poll": "2026-05-08T07:40:44.877846+00:00",
+  "active_count": 25,
   "active_logins": [
+    "yoel-you",
+    "asoufian",
+    "blidriss",
+    "klamachi",
+    "yel-alja",
+    "yramouch",
+    "h-el-ahr",
+    "zouazrou",
+    "sksioui",
     "mait-mou",
     "azirari",
     "yjaafar",
     "abraji",
     "achahi",
-    "zboualam",
-    "wazadou",
     "yelgoumr",
     "hrabh",
     "smakkass",
@@ -19,7 +26,6 @@
     "aedarkao",
     "baharrou",
     "jamourgh",
-    "mzougari",
-    "berrabia"
+    "mzougari"
   ]
 }
