@@ -1,7 +1,9 @@
 {
-  "last_poll": "2026-05-10T03:15:18.187636+00:00",
-  "active_count": 25,
+  "last_poll": "2026-05-10T03:30:25.975596+00:00",
+  "active_count": 23,
   "active_logins": [
+    "ayafit",
+    "blidriss",
     "zakel-kh",
     "mabdelha",
     "hamaarab",
@@ -9,7 +11,6 @@
     "mmenniou",
     "yael-kha",
     "ztafjout",
-    "blidriss",
     "aazounda",
     "oel-azzo",
     "rhssayn",
@@ -20,12 +21,9 @@
     "obakri",
     "yrabhi",
     "ychabane",
-    "akouiss",
-    "azel-mah",
     "rsbaa",
     "mbidlal",
     "aait-laf",
-    "zboualam",
-    "sbelabbe"
+    "zboualam"
   ]
 }
