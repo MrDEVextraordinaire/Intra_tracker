@@ -1,7 +1,15 @@
 {
-  "last_poll": "2026-05-10T08:32:29.546812+00:00",
-  "active_count": 42,
+  "last_poll": "2026-05-10T08:47:31.115393+00:00",
+  "active_count": 47,
   "active_logins": [
+    "yjazouli",
+    "melayyad",
+    "mbouizak",
+    "smahraz",
+    "msbayihi",
+    "nosahimi",
+    "mzougari",
+    "selouizg",
     "klamachi",
     "mokoubar",
     "maddame",
@@ -31,18 +39,15 @@
     "ibaya",
     "gomar",
     "makarkao",
-    "ylaarare",
     "smakkass",
     "achahi",
     "jamourgh",
-    "hlaaz",
     "ybajdou",
     "aghafir",
     "aryahi",
     "habdella",
     "aoussama",
     "edagdagu",
-    "yel-bouz",
-    "zaben-da"
+    "yel-bouz"
   ]
 }
