@@ -1,7 +1,12 @@
 {
-  "last_poll": "2026-05-10T07:32:05.175117+00:00",
+  "last_poll": "2026-05-10T07:47:09.989941+00:00",
   "active_count": 31,
   "active_logins": [
+    "tmousnia",
+    "hzangui",
+    "asoufian",
+    "nel-adao",
+    "mokoubar",
     "ibouzina",
     "oabderra",
     "jait-chd",
@@ -11,9 +16,6 @@
     "yael-kha",
     "yramouch",
     "ztafjout",
-    "lasoubai",
-    "ychabane",
-    "h-el-ahr",
     "gomar",
     "makarkao",
     "sel-bech",
@@ -29,9 +31,7 @@
     "habdella",
     "aoussama",
     "edagdagu",
-    "ahoummad",
     "yel-bouz",
-    "zaben-da",
-    "zakel-kh"
+    "zaben-da"
   ]
 }
