@@ -22351,6 +22351,58 @@
         "host": "c2r1p3"
       },
       "_polled_at": "2026-05-08T01:37:46.007945+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38869680,
+      "begin_at": "2026-05-10T06:12:09.761Z",
+      "primary": true,
+      "host": "c1r3p13",
+      "campus_id": 75,
+      "user": {
+        "id": 237450,
+        "email": "chamchic@student.1337.ma",
+        "login": "chamchic",
+        "first_name": "Chemseddine",
+        "last_name": "Amchich",
+        "usual_full_name": "Chemseddine Amchich",
+        "usual_first_name": "Chemseddine",
+        "url": "https://api.intra.42.fr/v2/users/chamchic",
+        "phone": "hidden",
+        "displayname": "Chemseddine Amchich",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/d3c36c2024e74012e2962601c3586d7e/chamchic.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/f800fde7878125e0e409c34ba97a9b21/large_chamchic.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/3bdbad3068ced9eea028e39a5448cd7a/medium_chamchic.jpeg",
+            "small": "https://cdn.intra.42.fr/users/d30f0d6e8c4f6d651258c853befb2ea5/small_chamchic.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/cb122c34f309a1067e1618822137c033/micro_chamchic.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 15,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c1r3p13",
+        "wallet": 140,
+        "anonymize_date": "2029-05-09T00:00:00.000+01:00",
+        "data_erasure_date": "2029-05-09T00:00:00.000+01:00",
+        "created_at": "2025-08-08T12:44:24.082Z",
+        "updated_at": "2026-05-10T06:12:10.196Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 1,
+        "row": 3,
+        "position": 13,
+        "x": 13,
+        "y": 3,
+        "host": "c1r3p13"
+      },
+      "_polled_at": "2026-05-10T06:16:41.381232+00:00"
     }
   ]
 }
