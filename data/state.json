@@ -1,7 +1,11 @@
 {
-  "last_poll": "2026-05-12T23:16:00.121705+00:00",
-  "active_count": 47,
+  "last_poll": "2026-05-12T23:31:06.272063+00:00",
+  "active_count": 44,
   "active_logins": [
+    "ybelghad",
+    "selouizg",
+    "aait-ela",
+    "bamdjar",
     "adzahrao",
     "aarid",
     "zel-alao",
@@ -22,13 +26,9 @@
     "abchaman",
     "houardi",
     "aryahi",
-    "snaimi",
     "oel-azzo",
     "mlakhal",
-    "tmousnia",
-    "berrabia",
     "abjellal",
-    "ael-biss",
     "yaboumei",
     "asaqi",
     "ibaya",
@@ -44,10 +44,7 @@
     "ottalhao",
     "mjabri",
     "abdait-s",
-    "aait-ela",
     "ilaghrai",
-    "sohamdan",
-    "maboulai",
     "mabdelha"
   ]
 }
