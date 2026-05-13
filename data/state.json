@@ -1,7 +1,12 @@
 {
-  "last_poll": "2026-05-13T15:22:50.442939+00:00",
+  "last_poll": "2026-05-13T15:38:00.854864+00:00",
   "active_count": 100,
   "active_logins": [
+    "mtawil",
+    "mbrouk",
+    "aryahi",
+    "ameskine",
+    "haselidr",
     "kakbour",
     "abantari",
     "bkhalid",
@@ -18,7 +23,6 @@
     "aagharbi",
     "sel-maaq",
     "olachhab",
-    "mokatfi",
     "abbenmou",
     "mokoubar",
     "mohel-am",
@@ -72,8 +76,6 @@
     "yel-joul",
     "bamdjar",
     "oissfoul",
-    "ibel-lot",
-    "ameskine",
     "asaqi",
     "kel-mous",
     "masbane",
@@ -83,7 +85,6 @@
     "abenkrar",
     "ottalhao",
     "msbayihi",
-    "ancheab",
     "nel-adao",
     "wabbad",
     "jait-chd",
@@ -100,7 +101,6 @@
     "abchaman",
     "yel-azim",
     "rkadri",
-    "iel-ghan",
-    "ichtioui"
+    "iel-ghan"
   ]
 }
