@@ -1,7 +1,10 @@
 {
-  "last_poll": "2026-05-13T00:01:22.149341+00:00",
-  "active_count": 42,
+  "last_poll": "2026-05-13T00:16:28.040014+00:00",
+  "active_count": 41,
   "active_logins": [
+    "ael-biss",
+    "yatanagh",
+    "ilaghrai",
     "adzahrao",
     "oel-azzo",
     "ykebieb",
@@ -19,7 +22,6 @@
     "ybelghad",
     "selouizg",
     "aait-ela",
-    "aarid",
     "zel-alao",
     "haallaou",
     "kmarjij",
@@ -28,7 +30,6 @@
     "rsbaa",
     "sel-maaq",
     "yramouch",
-    "masbane",
     "wabdi",
     "aryahi",
     "abjellal",
@@ -37,12 +38,10 @@
     "ibaya",
     "itemlali",
     "alerradi",
-    "ancheab",
     "yabarhda",
     "falamlih",
     "mjabri",
     "abdait-s",
-    "ilaghrai",
     "mabdelha"
   ]
 }
