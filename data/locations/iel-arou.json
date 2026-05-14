@@ -32401,6 +32401,58 @@
         "host": "c2r1p1"
       },
       "_polled_at": "2026-05-13T17:38:45.968841+00:00"
+    },
+    {
+      "end_at": null,
+      "id": 38923433,
+      "begin_at": "2026-05-14T10:57:04.174Z",
+      "primary": true,
+      "host": "c2r1p2",
+      "campus_id": 75,
+      "user": {
+        "id": 237440,
+        "email": "iel-arou@student.1337.ma",
+        "login": "iel-arou",
+        "first_name": "Ibrahim",
+        "last_name": "El aroui",
+        "usual_full_name": "Ibrahim El Aroui",
+        "usual_first_name": "Ibrahim",
+        "url": "https://api.intra.42.fr/v2/users/iel-arou",
+        "phone": "hidden",
+        "displayname": "Ibrahim El Aroui",
+        "kind": "student",
+        "image": {
+          "link": "https://cdn.intra.42.fr/users/21b9c60b9c0d3358c98af6d1147aeea9/iel-arou.jpeg",
+          "versions": {
+            "large": "https://cdn.intra.42.fr/users/23c0f512b8bfb43acb6a955ea3ea8ebc/large_iel-arou.jpeg",
+            "medium": "https://cdn.intra.42.fr/users/5946d3f8f2c9037dd8411175f44a481c/medium_iel-arou.jpeg",
+            "small": "https://cdn.intra.42.fr/users/96c304b1d76d7de42c56b0070fd43bd8/small_iel-arou.jpeg",
+            "micro": "https://cdn.intra.42.fr/users/960ab3934758b1822ce5426156b5e666/micro_iel-arou.jpeg"
+          }
+        },
+        "staff?": false,
+        "correction_point": 0,
+        "pool_month": "august",
+        "pool_year": "2025",
+        "location": "c2r1p2",
+        "wallet": 140,
+        "anonymize_date": "2029-05-14T00:00:00.000+01:00",
+        "data_erasure_date": "2029-05-14T00:00:00.000+01:00",
+        "created_at": "2025-08-08T12:14:23.771Z",
+        "updated_at": "2026-05-14T10:57:05.671Z",
+        "alumnized_at": null,
+        "alumni?": false,
+        "active?": true
+      },
+      "_coords": {
+        "cluster": 2,
+        "row": 1,
+        "position": 2,
+        "x": 2,
+        "y": 1,
+        "host": "c2r1p2"
+      },
+      "_polled_at": "2026-05-14T10:32:05.098241+00:00"
     }
   ]
 }
