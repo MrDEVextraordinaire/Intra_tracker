@@ -1,15 +1,13 @@
 {
-  "last_poll": "2026-05-15T01:19:24.942578+00:00",
-  "active_count": 20,
+  "last_poll": "2026-05-15T01:34:30.371979+00:00",
+  "active_count": 17,
   "active_logins": [
+    "yramouch",
     "aarid",
     "berrabia",
-    "skoulal",
     "mjabri",
-    "aait-our",
     "mabdelha",
     "mouahman",
-    "zboualam",
     "sasaidi",
     "elhamza",
     "ychabane",
@@ -20,7 +18,6 @@
     "eanjar",
     "ybaddi",
     "abdait-s",
-    "mtarza",
-    "sel-maaq"
+    "mtarza"
   ]
 }
