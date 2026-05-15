@@ -1,14 +1,15 @@
 {
-  "last_poll": "2026-05-15T00:49:11.621090+00:00",
-  "active_count": 20,
+  "last_poll": "2026-05-15T01:04:17.055884+00:00",
+  "active_count": 18,
   "active_logins": [
+    "skoulal",
+    "mjabri",
+    "aait-our",
+    "mabdelha",
     "mouahman",
     "zboualam",
     "sasaidi",
     "elhamza",
-    "masbane",
-    "hes-saou",
-    "ottalhao",
     "ychabane",
     "maboulai",
     "hrabh",
@@ -17,9 +18,6 @@
     "eanjar",
     "ybaddi",
     "abdait-s",
-    "ael-bala",
-    "aykarim",
-    "mlakhlil",
     "mtarza",
     "sel-maaq"
   ]
