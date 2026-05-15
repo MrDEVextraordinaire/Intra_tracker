@@ -1,7 +1,10 @@
 {
-  "last_poll": "2026-05-15T23:12:58.637680+00:00",
-  "active_count": 51,
+  "last_poll": "2026-05-15T23:28:00.591048+00:00",
+  "active_count": 46,
   "active_logins": [
+    "mjabri",
+    "anlibrin",
+    "hahchtar",
     "mabdelha",
     "souichou",
     "aybareic",
@@ -29,9 +32,6 @@
     "yael-kha",
     "tmousnia",
     "abdait-s",
-    "wabdi",
-    "selouizg",
-    "zatais",
     "ybaddi",
     "nel-khol",
     "mait-oub",
@@ -39,19 +39,14 @@
     "ohariss",
     "sel-maaq",
     "aryahi",
-    "cfarai",
     "eanjar",
     "ikabboud",
-    "hounejja",
     "mjaber",
-    "sboudcha",
     "mchati",
     "ibaya",
     "ztafjout",
-    "azel-mah",
     "yel-arib",
     "falamlih",
-    "sbelabbe",
     "abenkrar"
   ]
 }
