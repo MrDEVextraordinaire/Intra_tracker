@@ -1,7 +1,10 @@
 {
-  "last_poll": "2026-05-15T02:50:01.109426+00:00",
-  "active_count": 23,
+  "last_poll": "2026-05-15T03:05:02.543728+00:00",
+  "active_count": 24,
   "active_logins": [
+    "slaissam",
+    "itamsama",
+    "sel-abbo",
     "itemlali",
     "mchati",
     "blemrabe",
@@ -14,7 +17,6 @@
     "ybelghad",
     "aarid",
     "berrabia",
-    "mjabri",
     "mouahman",
     "sasaidi",
     "elhamza",
@@ -23,7 +25,6 @@
     "hrabh",
     "shrimech",
     "zakel-kh",
-    "ybaddi",
     "abdait-s"
   ]
 }
