@@ -1,7 +1,12 @@
 {
-  "last_poll": "2026-05-15T23:28:00.591048+00:00",
-  "active_count": 46,
+  "last_poll": "2026-05-15T23:43:02.530570+00:00",
+  "active_count": 43,
   "active_logins": [
+    "aait-laf",
+    "ychabane",
+    "mmenniou",
+    "yramouch",
+    "mouahman",
     "mjabri",
     "anlibrin",
     "hahchtar",
@@ -12,21 +17,14 @@
     "hrabh",
     "mrouissy",
     "maboulai",
-    "hamaarab",
-    "mochajou",
-    "alamliti",
-    "ykebieb",
     "tsellak",
-    "aait-laf",
     "oerrami",
-    "abousfih",
     "isel-bar",
     "zboualam",
     "mowardan",
     "iel-ghan",
     "ahoummad",
     "abmoudni",
-    "mmenniou",
     "zel-alao",
     "aezzirar",
     "yael-kha",
@@ -46,7 +44,6 @@
     "ibaya",
     "ztafjout",
     "yel-arib",
-    "falamlih",
-    "abenkrar"
+    "falamlih"
   ]
 }
