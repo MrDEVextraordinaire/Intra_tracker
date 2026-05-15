@@ -1,20 +1,18 @@
 {
-  "last_poll": "2026-05-15T00:34:06.089790+00:00",
-  "active_count": 24,
+  "last_poll": "2026-05-15T00:49:11.621090+00:00",
+  "active_count": 20,
   "active_logins": [
+    "mouahman",
     "zboualam",
     "sasaidi",
     "elhamza",
     "masbane",
     "hes-saou",
     "ottalhao",
-    "mouahman",
-    "mjabri",
     "ychabane",
     "maboulai",
     "hrabh",
     "shrimech",
-    "hounejja",
     "zakel-kh",
     "eanjar",
     "ybaddi",
@@ -23,8 +21,6 @@
     "aykarim",
     "mlakhlil",
     "mtarza",
-    "sbelabbe",
-    "sel-maaq",
-    "slaissam"
+    "sel-maaq"
   ]
 }
