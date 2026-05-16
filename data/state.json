@@ -1,7 +1,10 @@
 {
-  "last_poll": "2026-05-16T06:29:20.213280+00:00",
-  "active_count": 26,
+  "last_poll": "2026-05-16T06:44:25.136911+00:00",
+  "active_count": 18,
   "active_logins": [
+    "aghafir",
+    "elhamza",
+    "ahoummad",
     "noakebli",
     "zboualam",
     "tmousnia",
@@ -12,21 +15,10 @@
     "aelhadja",
     "sksioui",
     "maddame",
-    "yramouch",
     "aelarous",
-    "ael-bala",
     "aait-our",
-    "yel-bouz",
-    "abdait-s",
-    "ychabane",
     "jamourgh",
-    "momokhli",
     "zaben-da",
-    "shrimech",
-    "mrouissy",
-    "makarkao",
-    "aait-laf",
-    "isel-bar",
-    "mchati"
+    "mrouissy"
   ]
 }
