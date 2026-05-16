@@ -1,7 +1,10 @@
 {
-  "last_poll": "2026-05-15T23:58:04.272427+00:00",
-  "active_count": 39,
+  "last_poll": "2026-05-16T00:13:05.800684+00:00",
+  "active_count": 37,
   "active_logins": [
+    "isel-bar",
+    "houardi",
+    "hounejja",
     "hrabh",
     "ykebieb",
     "mochajou",
@@ -19,7 +22,6 @@
     "mrouissy",
     "maboulai",
     "tsellak",
-    "isel-bar",
     "zboualam",
     "mowardan",
     "iel-ghan",
@@ -30,16 +32,12 @@
     "ybaddi",
     "nel-khol",
     "mait-oub",
-    "aykarim",
-    "ohariss",
     "sel-maaq",
     "eanjar",
     "ikabboud",
-    "mjaber",
     "mchati",
     "ibaya",
     "ztafjout",
-    "yel-arib",
-    "falamlih"
+    "yel-arib"
   ]
 }
