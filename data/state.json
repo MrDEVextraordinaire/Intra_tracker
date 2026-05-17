@@ -1,7 +1,9 @@
 {
-  "last_poll": "2026-05-17T00:35:38.982517+00:00",
-  "active_count": 35,
+  "last_poll": "2026-05-17T00:50:47.692462+00:00",
+  "active_count": 33,
   "active_logins": [
+    "hrabh",
+    "kmarjij",
     "houardi",
     "tsellak",
     "mouahman",
@@ -14,7 +16,6 @@
     "snaimi",
     "ahoummad",
     "ikabboud",
-    "yelgoumr",
     "abmoudni",
     "ychabane",
     "azel-mah",
@@ -26,16 +27,13 @@
     "yel-mota",
     "yel-arib",
     "sasaidi",
-    "hrabh",
     "ekhallaf",
     "nel-khol",
     "mait-oub",
     "alerradi",
-    "mohel-am",
     "ztafjout",
     "sechlahb",
     "edagdagu",
-    "falamlih",
     "yael-kha"
   ]
 }
