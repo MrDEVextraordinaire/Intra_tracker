@@ -1,18 +1,19 @@
 {
-  "last_poll": "2026-05-17T01:35:58.653188+00:00",
-  "active_count": 37,
+  "last_poll": "2026-05-17T01:51:00.093732+00:00",
+  "active_count": 34,
   "active_logins": [
+    "nael-oua",
+    "aazounda",
+    "adahab",
+    "waissi",
     "aelarous",
     "rkadri",
-    "mlakhlil",
     "ael-bala",
     "ybaddi",
     "mjabri",
     "snaimi",
     "yelgoumr",
-    "ahamou-t",
     "ybelghad",
-    "sel-abbo",
     "isel-bar",
     "hrabh",
     "kmarjij",
@@ -26,9 +27,6 @@
     "abmoudni",
     "azel-mah",
     "ibaya",
-    "hounejja",
-    "mabdelha",
-    "a-khairi",
     "berrabia",
     "yel-arib",
     "sasaidi",
@@ -37,7 +35,6 @@
     "mait-oub",
     "ztafjout",
     "sechlahb",
-    "edagdagu",
     "yael-kha"
   ]
 }
