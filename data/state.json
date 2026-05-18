@@ -1,7 +1,9 @@
 {
-  "last_poll": "2026-05-18T22:29:31.675900+00:00",
-  "active_count": 72,
+  "last_poll": "2026-05-18T22:44:34.218343+00:00",
+  "active_count": 70,
   "active_logins": [
+    "aerrabou",
+    "azel-mah",
     "gomar",
     "sel-ghai",
     "sohamdan",
@@ -15,7 +17,6 @@
     "adiri",
     "alamliti",
     "abousfih",
-    "yjazouli",
     "rkadri",
     "asaqi",
     "achahi",
@@ -36,7 +37,6 @@
     "bessabri",
     "blemrabe",
     "kel-bahr",
-    "ekhallaf",
     "yigourra",
     "brouane",
     "mel-houa",
@@ -70,9 +70,7 @@
     "rsbaa",
     "iammar",
     "yelgoumr",
-    "moirhira",
     "aelhadja",
-    "anassih",
-    "dkhalfao"
+    "anassih"
   ]
 }
