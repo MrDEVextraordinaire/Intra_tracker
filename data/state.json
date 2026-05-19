@@ -1,27 +1,22 @@
 {
-  "last_poll": "2026-05-19T06:33:04.622683+00:00",
-  "active_count": 21,
+  "last_poll": "2026-05-19T06:48:08.105794+00:00",
+  "active_count": 16,
   "active_logins": [
+    "klamachi",
+    "bessabri",
+    "ibouzina",
+    "aghafir",
+    "makarkao",
     "jamourgh",
     "mmenniou",
-    "itamsama",
-    "sfaouzi",
     "blidriss",
-    "mait-mou",
-    "ylaarare",
     "rkadri",
     "blemrabe",
-    "sel-abbo",
     "dkhalfao",
-    "ybelghad",
-    "ychabane",
     "aait-ahm",
     "hamaarab",
     "aijadid",
     "ahoummad",
-    "waissi",
-    "ztafjout",
-    "ahamou-t",
-    "ayboudya"
+    "waissi"
   ]
 }
