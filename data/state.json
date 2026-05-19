@@ -1,9 +1,11 @@
 {
-  "last_poll": "2026-05-19T07:03:11.177727+00:00",
-  "active_count": 17,
+  "last_poll": "2026-05-19T07:18:12.930228+00:00",
+  "active_count": 16,
   "active_logins": [
-    "blidriss",
+    "sel-bech",
     "blemrabe",
+    "aelarous",
+    "blidriss",
     "yel-alja",
     "abdait-s",
     "mbounoui",
@@ -15,9 +17,6 @@
     "makarkao",
     "jamourgh",
     "dkhalfao",
-    "aait-ahm",
-    "aijadid",
-    "ahoummad",
-    "waissi"
+    "ahoummad"
   ]
 }
