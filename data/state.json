@@ -1,7 +1,12 @@
 {
-  "last_poll": "2026-05-21T22:27:39.091050+00:00",
-  "active_count": 65,
+  "last_poll": "2026-05-21T22:42:42.882303+00:00",
+  "active_count": 59,
   "active_logins": [
+    "yramouch",
+    "aijadid",
+    "sfaouzi",
+    "adahab",
+    "ibaya",
     "aykarim",
     "mmenniou",
     "aezzirar",
@@ -17,13 +22,9 @@
     "kemzouri",
     "sohamdan",
     "yhachimi",
-    "mhaddou",
     "sechlahb",
     "oayyoub",
-    "mchati",
-    "chamchic",
     "tmousnia",
-    "isakrout",
     "mrouissy",
     "achanek",
     "chabourk",
@@ -36,7 +37,6 @@
     "ybelghad",
     "mochajou",
     "aybareic",
-    "oel-jrao",
     "sel-abbo",
     "berrabia",
     "zouazrou",
@@ -47,9 +47,6 @@
     "mait-oub",
     "ael-biss",
     "sbelabbe",
-    "onaanaa",
-    "ikabboud",
-    "oissfoul",
     "nkasimi",
     "cfarai",
     "asaqi",
@@ -62,10 +59,7 @@
     "mel-houa",
     "azirari",
     "oerrami",
-    "mbrouk",
     "alerradi",
-    "yjabrane",
-    "ielmoudd",
-    "yjazouli"
+    "yjabrane"
   ]
 }
