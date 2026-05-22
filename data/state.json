@@ -1,11 +1,16 @@
 {
-  "last_poll": "2026-05-22T04:29:14.899219+00:00",
-  "active_count": 20,
+  "last_poll": "2026-05-22T04:44:17.871186+00:00",
+  "active_count": 21,
   "active_logins": [
+    "delminia",
+    "nel-khol",
+    "mait-oub",
     "rhssayn",
+    "mrbib",
+    "nyahyaou",
+    "ancheab",
     "sfaouzi",
     "mmenniou",
-    "chabourk",
     "ychabane",
     "asaqi",
     "yrabhi",
@@ -13,14 +18,10 @@
     "sel-abbo",
     "mohel-am",
     "hlaaz",
-    "rkadri",
     "mbidlal",
     "shrimech",
     "azahi",
-    "ael-biss",
     "aykarim",
-    "maboulai",
-    "aybareic",
     "berrabia"
   ]
 }
