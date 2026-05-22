@@ -1,7 +1,9 @@
 {
-  "last_poll": "2026-05-22T16:02:03.115698+00:00",
-  "active_count": 55,
+  "last_poll": "2026-05-22T16:17:06.080419+00:00",
+  "active_count": 52,
   "active_logins": [
+    "aelarous",
+    "kraghib",
     "mochajou",
     "oayyoub",
     "bzari",
@@ -13,9 +15,6 @@
     "hlaaz",
     "sel-abbo",
     "sfaouzi",
-    "abchaman",
-    "mlakhal",
-    "aben-dri",
     "yoel-you",
     "blidriss",
     "schahir",
@@ -25,7 +24,6 @@
     "ilsyabri",
     "rhssayn",
     "mbidlal",
-    "hes-saou",
     "achanek",
     "ochachi",
     "brouane",
@@ -55,7 +53,6 @@
     "h-el-ahr",
     "ybajdou",
     "habdella",
-    "smakkass",
-    "hbousset"
+    "smakkass"
   ]
 }
