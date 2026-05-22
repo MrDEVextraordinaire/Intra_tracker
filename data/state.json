@@ -1,20 +1,21 @@
 {
-  "last_poll": "2026-05-22T10:15:50.552934+00:00",
-  "active_count": 42,
+  "last_poll": "2026-05-22T10:30:57.718720+00:00",
+  "active_count": 40,
   "active_logins": [
+    "ztafjout",
+    "gomar",
+    "mokatfi",
+    "aryahi",
+    "nel-adao",
     "zouazrou",
     "alerradi",
     "lalfidi",
     "yel-azim",
     "aagharbi",
-    "nel-adao",
     "mlakhal",
     "anlibrin",
-    "slaaouin",
     "yramouch",
-    "ibouzina",
     "hrabh",
-    "mbouskha",
     "adahadda",
     "aakherra",
     "msbayihi",
@@ -22,7 +23,6 @@
     "bchiki",
     "noakebli",
     "sait-mou",
-    "blemrabe",
     "ochachi",
     "akouiss",
     "aben-dri",
@@ -33,7 +33,6 @@
     "lasoubai",
     "ybajdou",
     "oobbad",
-    "brbaazi",
     "abentabe",
     "mbouizak",
     "nosahimi",
@@ -42,7 +41,6 @@
     "ibaya",
     "blidriss",
     "hlaaz",
-    "ychabane",
-    "isel-bar"
+    "ychabane"
   ]
 }
