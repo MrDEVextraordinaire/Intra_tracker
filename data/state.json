@@ -1,13 +1,13 @@
 {
-  "last_poll": "2026-05-22T05:29:24.637541+00:00",
-  "active_count": 19,
+  "last_poll": "2026-05-22T05:44:25.972835+00:00",
+  "active_count": 17,
   "active_logins": [
+    "mohel-am",
     "ancheab",
     "sfaouzi",
     "ael-biss",
     "hlaaz",
     "aykarim",
-    "rkadri",
     "nel-khol",
     "mait-oub",
     "rhssayn",
@@ -17,9 +17,7 @@
     "yrabhi",
     "ybelghad",
     "sel-abbo",
-    "mohel-am",
     "mbidlal",
-    "azahi",
-    "berrabia"
+    "azahi"
   ]
 }
