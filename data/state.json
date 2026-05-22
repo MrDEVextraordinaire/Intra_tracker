@@ -1,7 +1,10 @@
 {
-  "last_poll": "2026-05-22T07:14:38.282208+00:00",
-  "active_count": 22,
+  "last_poll": "2026-05-22T07:29:39.418309+00:00",
+  "active_count": 20,
   "active_logins": [
+    "abenkrar",
+    "blidriss",
+    "klamachi",
     "rhssayn",
     "mchati",
     "abdait-s",
@@ -9,12 +12,8 @@
     "mokatfi",
     "msbayihi",
     "wabbad",
-    "houardi",
     "aezzirar",
     "hlaaz",
-    "sfaouzi",
-    "mbouskha",
-    "ibouzina",
     "ychabane",
     "isel-bar",
     "ancheab",
@@ -22,7 +21,6 @@
     "nel-khol",
     "mait-oub",
     "mmenniou",
-    "asaqi",
     "mbidlal"
   ]
 }
