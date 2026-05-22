@@ -1,10 +1,11 @@
 {
-  "last_poll": "2026-05-22T02:13:40.667474+00:00",
-  "active_count": 27,
+  "last_poll": "2026-05-22T02:28:48.449685+00:00",
+  "active_count": 24,
   "active_logins": [
+    "asaqi",
+    "yrabhi",
     "mait-oub",
     "nel-khol",
-    "yramouch",
     "ibaya",
     "ybelghad",
     "sel-abbo",
@@ -13,7 +14,6 @@
     "hlaaz",
     "rkadri",
     "sfaouzi",
-    "yrabhi",
     "rhssayn",
     "mbidlal",
     "shrimech",
@@ -25,9 +25,6 @@
     "chabourk",
     "aybareic",
     "berrabia",
-    "sbelabbe",
-    "asaqi",
-    "ychabane",
     "yjabrane"
   ]
 }
