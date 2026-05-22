@@ -1,7 +1,11 @@
 {
-  "last_poll": "2026-05-22T20:17:37.247579+00:00",
-  "active_count": 53,
+  "last_poll": "2026-05-22T20:32:39.621082+00:00",
+  "active_count": 50,
   "active_logins": [
+    "snaimi",
+    "aben-dri",
+    "mohel-am",
+    "iel-ghan",
     "nchagour",
     "yoel-you",
     "mbouizak",
@@ -21,10 +25,8 @@
     "sajdi",
     "abait-mo",
     "sait-mou",
-    "oayyoub",
     "ilsyabri",
     "blidriss",
-    "mokatfi",
     "abounade",
     "abentabe",
     "iammar",
@@ -33,12 +35,8 @@
     "abenkrar",
     "mel-houa",
     "elel-m-b",
-    "nel-adao",
     "rhssayn",
-    "azahi",
     "aeddiba",
-    "h-el-ahr",
-    "klamachi",
     "ochachi",
     "momokhli",
     "ielmoudd",
@@ -53,7 +51,6 @@
     "kel-mous",
     "alerradi",
     "jait-chd",
-    "mtaleb",
     "bchiki"
   ]
 }
